@@ -11,7 +11,7 @@ joinByChar() {
 organizations=$(cat organizations.json | jq -r .\[\].id)
 
 for i in $organizations; do
-    svg="$(pwd)/$i.svg"
+    svg="$(pwd)/logos/$i.svg"
 
     if [ -f "$svg" ]; then
       echo "exporting ${i}"
