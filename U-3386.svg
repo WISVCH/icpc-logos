@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="affiliation" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{display:none;fill:#FFFFFF;}
+	.st2{fill:url(#Rectangle-path_00000124863468556094029670000012080900820217927303_);}
+</style>
+<rect id="black" width="256" height="256"/>
+<circle id="background_x5F_circle" class="st0" cx="128" cy="128" r="128"/>
+<path id="background_x5F_rectangle" class="st1" d="M206.9,256H49.1C22.1,256,0,233.9,0,206.9V49.1C0,22.1,22.1,0,49.1,0h157.9
+	c27,0,49.1,22.1,49.1,49.1v157.9C256,233.9,233.9,256,206.9,256z"/>
+<g id="logo">
+	<g>
+		
+			<radialGradient id="Rectangle-path_00000126320352950755286600000017464859677601357729_" cx="-547.5798" cy="509.8812" r="2.0658" gradientTransform="matrix(94.0567 0 0 -93.7698 51553.3984 47849.0508)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#009BBD"/>
+			<stop  offset="0.1735" style="stop-color:#009BBD"/>
+			<stop  offset="1" style="stop-color:#1B296B"/>
+		</radialGradient>
+		
+			<rect id="Rectangle-path_00000124143283723689795680000010141321846104782248_" x="51.2" y="51.4" style="fill:url(#Rectangle-path_00000126320352950755286600000017464859677601357729_);" width="153.6" height="153.1"/>
+		<g id="Castle" transform="translate(23.174114, 18.583192)">
+			<g id="Group" transform="translate(0.000000, 0.000000)">
+				<path id="Shape_00000160183899025232938300000004067053972680170680_" class="st0" d="M131.8,69.7c-3.5-1.9-6.7-3.4-11.2-4.4
+					v9.1c3.9,0.9,7.7,2.3,11.2,3.9V69.7z"/>
+				<path id="Shape_00000000203462081043932920000011159721707943097529_" class="st0" d="M116.5,99.5c-1.1,0-2,0.9-2,2.1l-0.6,18.6
+					h5.3l-0.7-18.6C118.5,100.4,117.8,99.5,116.5,99.5z"/>
+				<path id="Shape_00000150822083545041575760000002750720587141312651_" class="st0" d="M121.2,150.8c-5.6,0-9.5-1.3-14.6-3.9
+					c-5.4-2.8-11.5-5.2-19.2-5.2c-7.2,0-15,2.5-20.9,11.3c7.1-4.3,13.6-5.7,19.1-5.7c5.8,0,10.4,1.5,14.9,3.9
+					c5.2,2.7,9.6,4.6,16.1,4.6c6.3,0,13.3-2.4,19.4-10.3C131.1,149.5,125.9,150.8,121.2,150.8z"/>
+				<path id="Shape_00000127723218609154321020000003134478607435294101_" class="st0" d="M90.3,138.7c4.9,0,10.7,1.4,17.2,4.9
+					v-18.4l-2.7-3.4V96.3l5.3-8.1l-2.2,7.8c1.5-0.2,3-0.3,4.6-0.3c5.2,0,10,0.9,14,2.5l5.3-4.8V80.2c-3.5-1.6-7.2-2.9-11.2-3.9
+					c-2.4-0.6-4.9-1-7.6-1.3V63.6c-2.8-0.4-5.7-0.6-8.6-0.6c-2.8,0-5.6,0.2-8.2,0.5v10.8c-2.6,0.3-5.1,0.8-7.5,1.4V65.1
+					c-4.3,1.1-8.3,2.9-12,4.9v22.2l5.1,4.8L80.2,122l-4.1,4.1v14.4l1.4,1.5C80.9,140.2,85.2,138.7,90.3,138.7z M89.6,101.6
+					c0-1.1,0.9-2.1,2-2.1s2,0.9,2,2.1l0.7,18.6h-5.3L89.6,101.6z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
