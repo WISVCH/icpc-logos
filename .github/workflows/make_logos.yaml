@@ -1,0 +1,80 @@
+---
+
+name: Main
+
+on:
+  push:
+    branches:
+      - "main"
+  pull_request:
+
+jobs:
+  render:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Install inkscape
+        run: sudo add-apt-repository ppa:inkscape.dev/stable && sudo apt update && sudo apt-get install inkscape
+      - run: inkscape --version
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Run export
+        run: ./export.sh
+      - uses: actions/upload-artifact@v2
+        with:
+          name: logos
+          path: out
+  test:
+    needs: render
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - uses: actions/download-artifact@v2
+        with:
+          name: logos
+          path: out
+      # Thanks to Verwoerd
+      # https://github.com/Programming-Contest-Foundation/logo/blob/main/.github/workflows/main.yml
+      - name: Test in DJ
+        run: |
+          cd ${{ github.workspace }}
+          afftmp="affilDOMjudge"
+          sudo apt update; sudo apt install cutycapt xvfb httpie -y
+          mkdir $afftmp
+          cp ${{ github.workspace }}/out/background_64/* $afftmp
+          docker-compose -f .github/workflows/domjudge/docker-compose.yml up -d mariadb
+          sleep 30s
+          docker-compose -f .github/workflows/domjudge/docker-compose.yml up -d domjudge
+          sleep 1m
+          ADMINPASS=$(docker exec -i domjudge_domjudge_1 cat /opt/domjudge/domserver/etc/initial_admin_password.secret)
+          http -a admin:$ADMINPASS --check-status -b -f POST "http://localhost:12345/api/users/organizations" json@organizations.json
+          jq "[.[] | {\"organization_id\": .id, \"name\": .formal_name, \"id\":1, \"group_ids\": [\"3\"]}] | to_entries | map( (.value.id = \"\(1+.key)\" ) | .value)" organizations.json > teams.json
+          http -a admin:$ADMINPASS --check-status -b -f POST "http://localhost:12345/api/users/teams" json@teams.json
+          http -a admin:$ADMINPASS --check-status -b PUT "http://localhost:12345/api/config" show_affiliation_logos=true data_source=1 --ignore-stdin
+          #http -a admin:$ADMINPASS --verbose --check-status -b GET "http://localhost:12345/api/config"
+          xvfb-run --server-args="-screen 0, 1024x768x24" cutycapt --url=http://localhost:12345 --out=scoreboard.png
+      - uses: actions/upload-artifact@v2
+        with:
+          name: DJ_scoreboard
+          path: scoreboard.png
+  release:
+    needs: render
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - uses: actions/download-artifact@v2
+        with:
+          name: logos
+          path: out
+      - name: Zip logos
+        run: cd ${{ github.workspace }}/out; for i in */; do zip -r "${i%/}.zip" "$i"; done; cd ${{ github.workspace }}
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: false
+          files: |
+            ${{ github.workspace }}/out/*.zip
+            ${{ github.workspace }}/organizations.json

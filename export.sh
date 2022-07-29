@@ -37,16 +37,16 @@ for i in $organizations; do
 
 
     for s in ${sizes[@]}; do
-        mkdir -p "out/background/$s"
-        exportFilename="out/background/$s/$i.png"
+        mkdir -p "out/background_$s"
+        exportFilename="out/background_$s/$i.png"
         exports+=("export-type:png;export-background-opacity:0;export-width:$s;export-filename:$exportFilename;export-do")
     done
 
     exports+=("select:background_x5F_circle;selection-hide;select:background_x5F_rectangle;selection-hide")
 
     for s in ${sizes[@]}; do
-        mkdir -p "out/transparent/$s"
-        exportFilename="out/transparent/$s/$i.png"
+        mkdir -p "out/transparent_$s"
+        exportFilename="out/transparent_$s/$i.png"
         exports+=("export-type:png;export-background-opacity:0;export-width:$s;export-filename:$exportFilename;export-do")
     done
 
