@@ -25,7 +25,7 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./logos/U-2145.svg" width="64" height="64"> | U-2145 |  University of Copenhagen | :heavy_check_mark: |
 | <img src="./logos/U-3316.svg" width="64" height="64"> | U-3316 |  Imperial College London | :heavy_check_mark: |
 | <img src="./logos/U-3179.svg" width="64" height="64"> | U-3179 |  Katholieke Universiteit Leuven | :heavy_check_mark: |
-| <img src="./logos/U-18628.svg" width="64" height="64"> | U-18628 |  Frankfurt am Main University of Applied Sciences | :heavy_check_mark: |
+| <img src="./logos/U-18628.svg" width="64" height="64"> | U-18628 |  Frankfurt am Main University of Applied Sciences | :question: |
 | <img src="./logos/U-5077.svg" width="64" height="64"> | U-5077 |  University of Bath | :heavy_check_mark: |
 | <img src="./logos/U-0798.svg" width="64" height="64"> | U-0798 |  Friedrich-Alexander-University Erlangen-Nuremberg | :heavy_check_mark: |
 | <img src="./logos/U-2338.svg" width="64" height="64"> | U-2338 |  Uppsala University | :heavy_check_mark: |
@@ -33,7 +33,7 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./logos/U-0016.svg" width="64" height="64"> | U-0016 |  Aarhus University | :heavy_check_mark: |
 | <img src="./logos/U-1936.svg" width="64" height="64"> | U-1936 |  Umeå University | :heavy_check_mark: |
 | <img src="./logos/U-0635.svg" width="64" height="64"> | U-0635 |  Delft University of Technology | :heavy_check_mark: |
-| <img src="./logos/U-18717.svg" width="64" height="64"> | U-18717 |  Universitaet des Saarlandes | :heavy_check_mark: |
+| <img src="./logos/U-18717.svg" width="64" height="64"> | U-18717 |  Universitaet des Saarlandes | :question: |
 | <img src="./logos/U-3386.svg" width="64" height="64"> | U-3386 |  University of Nottingham | :heavy_check_mark: |
 | <img src="./logos/U-2088.svg" width="64" height="64"> | U-2088 |  Universität Rostock | :heavy_check_mark: |
 | <img src="./logos/U-6062.svg" width="64" height="64"> | U-6062 |  University of Liverpool | :heavy_check_mark: |
@@ -44,7 +44,7 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./logos/U-2381.svg" width="64" height="64"> | U-2381 |  Vrije Universiteit | :heavy_check_mark: |
 | <img src="./logos/U-1133.svg" width="64" height="64"> | U-1133 |  KTH - Royal Institute of Technology | :heavy_check_mark: |
 | <img src="./logos/U-0676.svg" width="64" height="64"> | U-0676 |  Dublin City University | :heavy_check_mark: |
-| <img src="./logos/U-18720.svg" width="64" height="64"> | U-18720 |  University of Bergen | :heavy_check_mark: |
+| <img src="./logos/U-18720.svg" width="64" height="64"> | U-18720 |  University of Bergen | :question: |
 | <img src="./logos/U-0998.svg" width="64" height="64"> | U-0998 |  Jacobs University | :heavy_check_mark: |
 | <img src="./logos/U-1833.svg" width="64" height="64"> | U-1833 |  Technische Universität München | :heavy_check_mark: |
 | <img src="./logos/U-2086.svg" width="64" height="64"> | U-2086 |  Karlsruhe Institute of Technology | :heavy_check_mark: |
