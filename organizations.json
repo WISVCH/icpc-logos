@@ -274,5 +274,53 @@
     "name": "Uni Lübeck",
     "formal_name": "Universität zu Lübeck",
     "country": "DEU"
+  },
+  {
+    "id": "C-0002",
+    "name": "ASML",
+    "formal_name": "ASML",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0003",
+    "name": "BetterBe",
+    "formal_name": "BetterBe B.V.",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0004",
+    "name": "Booking.com",
+    "formal_name": "Booking.com",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0005",
+    "name": "CWI",
+    "formal_name": "Centrum Wiskunde & Informatica",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0006",
+    "name": "Dassault Systèmes",
+    "formal_name": "Dassault Systèmes",
+    "country": "FRA"
+  },
+  {
+    "id": "C-0007",
+    "name": "IMC",
+    "formal_name": "IMC Trading B.V.",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0008",
+    "name": "Ortec",
+    "formal_name": "Ortec International B.V.",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0011",
+    "name": "bol.com",
+    "formal_name": "bol.com",
+    "country": "NLD"
   }
 ]
