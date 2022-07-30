@@ -1,0 +1,98 @@
+[
+  {
+    "id": "C-0002",
+    "name": "ASML",
+    "formal_name": "ASML",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0003",
+    "name": "BetterBe",
+    "formal_name": "BetterBe B.V.",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0004",
+    "name": "Booking.com",
+    "formal_name": "Booking.com",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0005",
+    "name": "CWI",
+    "formal_name": "Centrum Wiskunde & Informatica",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0006",
+    "name": "Dassault Systèmes",
+    "formal_name": "Dassault Systèmes",
+    "country": "FRA"
+  },
+  {
+    "id": "C-0007",
+    "name": "IMC",
+    "formal_name": "IMC Trading B.V.",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0008",
+    "name": "Ortec",
+    "formal_name": "Ortec International B.V.",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0010",
+    "name": "Sioux",
+    "formal_name": "Sioux Technologies B.V.",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0011",
+    "name": "bol.com",
+    "formal_name": "bol.com",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0012",
+    "name": "OrangeMason",
+    "formal_name": "OrangeMason B.V.",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0013",
+    "name": "Picnic",
+    "formal_name": "Picnic",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0014",
+    "name": "ING",
+    "formal_name": "ING",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0015",
+    "name": "Flow Traders",
+    "formal_name": "Flow Traders",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0016",
+    "name": "Prodrive Technologies",
+    "formal_name": "Prodrive Technologies",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0017",
+    "name": "Quintiq",
+    "formal_name": "Quintiq",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0018",
+    "name": "OVSoftware",
+    "formal_name": "OVSoftware",
+    "country": "NLD"
+  }
+]
