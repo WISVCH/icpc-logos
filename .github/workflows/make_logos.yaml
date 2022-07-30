@@ -18,7 +18,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Run export
-        run: ./export.sh
+        run: ./export.sh --universities --companies --background --transparent --output-directory out 64 256
       - uses: actions/upload-artifact@v2
         with:
           name: logos
