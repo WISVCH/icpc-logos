@@ -1,281 +1,5 @@
 [
   {
-    "id": "U-7250",
-    "name": "Radboud",
-    "formal_name": "Radboud University",
-    "country": "NLD"
-  },
-  {
-    "id": "U-1180",
-    "name": "LIU",
-    "formal_name": "Linköping University",
-    "country": "SWE"
-  },
-  {
-    "id": "U-2145",
-    "name": "DIKU",
-    "formal_name": "University of Copenhagen",
-    "country": "DNK"
-  },
-  {
-    "id": "U-3316",
-    "name": "Imperial",
-    "formal_name": "Imperial College London",
-    "country": "GBR"
-  },
-  {
-    "id": "U-3179",
-    "name": "",
-    "formal_name": "Katholieke Universiteit Leuven",
-    "country": "BEL"
-  },
-  {
-    "id": "U-18628",
-    "name": "FH FFM",
-    "formal_name": "Frankfurt am Main University of Applied Sciences",
-    "country": ""
-  },
-  {
-    "id": "U-5077",
-    "name": "Bath",
-    "formal_name": "University of Bath",
-    "country": "GBR"
-  },
-  {
-    "id": "U-0798",
-    "name": "FAU",
-    "formal_name": "Friedrich-Alexander-University Erlangen-Nuremberg",
-    "country": "DEU"
-  },
-  {
-    "id": "U-2338",
-    "name": "Uppsala U.",
-    "formal_name": "Uppsala University",
-    "country": "SWE"
-  },
-  {
-    "id": "U-2986",
-    "name": "U Helsinki",
-    "formal_name": "University of Helsinki",
-    "country": "FIN"
-  },
-  {
-    "id": "U-0016",
-    "name": "Aarhus U.",
-    "formal_name": "Aarhus University",
-    "country": "DNK"
-  },
-  {
-    "id": "U-1936",
-    "name": "UmU",
-    "formal_name": "Umeå University",
-    "country": "SWE"
-  },
-  {
-    "id": "U-0635",
-    "name": "TU Delft",
-    "formal_name": "Delft University of Technology",
-    "country": "NLD"
-  },
-  {
-    "id": "U-18717",
-    "name": "UdS",
-    "formal_name": "Universitaet des Saarlandes",
-    "country": ""
-  },
-  {
-    "id": "U-3386",
-    "name": "Nottingham",
-    "formal_name": "University of Nottingham",
-    "country": "GBR"
-  },
-  {
-    "id": "U-2088",
-    "name": "Uni Rostock",
-    "formal_name": "Universität Rostock",
-    "country": "DEU"
-  },
-  {
-    "id": "U-6062",
-    "name": "UoL",
-    "formal_name": "University of Liverpool",
-    "country": "GBR"
-  },
-  {
-    "id": "U-3088",
-    "name": "AVANS",
-    "formal_name": "Avans Hogeschool's - Hertogenbosch",
-    "country": "NLD"
-  },
-  {
-    "id": "U-0471",
-    "name": "Bonn U.",
-    "formal_name": "Bonn University",
-    "country": "DEU"
-  },
-  {
-    "id": "U-1393",
-    "name": "Norwegian TNU",
-    "formal_name": "Norwegian University of Science and Technology",
-    "country": "NOR"
-  },
-  {
-    "id": "U-2307",
-    "name": "UTwente",
-    "formal_name": "University of Twente",
-    "country": "NLD"
-  },
-  {
-    "id": "U-2381",
-    "name": "VU",
-    "formal_name": "Vrije Universiteit",
-    "country": "NLD"
-  },
-  {
-    "id": "U-1133",
-    "name": "KTH",
-    "formal_name": "KTH - Royal Institute of Technology",
-    "country": "SWE"
-  },
-  {
-    "id": "U-0676",
-    "name": "D.C.U.",
-    "formal_name": "Dublin City University",
-    "country": "IRL"
-  },
-  {
-    "id": "U-18720",
-    "name": "U Bergen",
-    "formal_name": "University of Bergen",
-    "country": ""
-  },
-  {
-    "id": "U-0998",
-    "name": "Jacobs U",
-    "formal_name": "Jacobs University",
-    "country": "DEU"
-  },
-  {
-    "id": "U-1833",
-    "name": "TUM",
-    "formal_name": "Technische Universität München",
-    "country": "DEU"
-  },
-  {
-    "id": "U-2086",
-    "name": "KIT",
-    "formal_name": "Karlsruhe Institute of Technology",
-    "country": "DEU"
-  },
-  {
-    "id": "U-5267",
-    "name": "Manchester",
-    "formal_name": "University of Manchester",
-    "country": "GBR"
-  },
-  {
-    "id": "U-5313",
-    "name": "UEDIN",
-    "formal_name": "University of Edinburgh",
-    "country": "GBR"
-  },
-  {
-    "id": "U-1172",
-    "name": "Leiden University",
-    "formal_name": "Leiden University",
-    "country": "NLD"
-  },
-  {
-    "id": "U-3264",
-    "name": "Oxford",
-    "formal_name": "University of Oxford",
-    "country": "GBR"
-  },
-  {
-    "id": "U-0001",
-    "name": "LUT",
-    "formal_name": "Lappeenranta University of Technology",
-    "country": "FIN"
-  },
-  {
-    "id": "U-1192",
-    "name": "LU",
-    "formal_name": "Lund University",
-    "country": "SWE"
-  },
-  {
-    "id": "U-6175",
-    "name": "Warwick",
-    "formal_name": "University of Warwick",
-    "country": "GBR"
-  },
-  {
-    "id": "U-3052",
-    "name": "Reykjavik U",
-    "formal_name": "Reykjavik University",
-    "country": "ISL"
-  },
-  {
-    "id": "U-2233",
-    "name": "UiOslo",
-    "formal_name": "University of Oslo",
-    "country": "NOR"
-  },
-  {
-    "id": "U-4257",
-    "name": "JGU",
-    "formal_name": "Johannes Gutenberg Universität Mainz",
-    "country": "DEU"
-  },
-  {
-    "id": "U-2134",
-    "name": "Cambridge",
-    "formal_name": "University of Cambridge",
-    "country": "GBR"
-  },
-  {
-    "id": "U-6104",
-    "name": "Southampton",
-    "formal_name": "University of Southampton",
-    "country": "GBR"
-  },
-  {
-    "id": "U-0711",
-    "name": "TU/e",
-    "formal_name": "Eindhoven University of Technology",
-    "country": "NLD"
-  },
-  {
-    "id": "U-19555",
-    "name": "UCLouvain",
-    "formal_name": "Université Catholique de Louvain",
-    "country": "BEL"
-  },
-  {
-    "id": "U-3317",
-    "name": "UCD",
-    "formal_name": "University College Dublin",
-    "country": "IRL"
-  },
-  {
-    "id": "U-2096",
-    "name": "U.U.",
-    "formal_name": "Universiteit Utrecht",
-    "country": "NLD"
-  },
-  {
-    "id": "U-6253",
-    "name": "UCL",
-    "formal_name": "University College London",
-    "country": "GBR"
-  },
-  {
-    "id": "U-1227",
-    "name": "Uni Lübeck",
-    "formal_name": "Universität zu Lübeck",
-    "country": "DEU"
-  },
-  {
     "id": "C-0002",
     "name": "ASML",
     "formal_name": "ASML",
@@ -370,5 +94,281 @@
     "name": "OVSoftware",
     "formal_name": "OVSoftware",
     "country": "NLD"
+  },
+  {
+    "id": "U-0001",
+    "name": "LUT",
+    "formal_name": "Lappeenranta University of Technology",
+    "country": "FIN"
+  },
+  {
+    "id": "U-0016",
+    "name": "Aarhus U.",
+    "formal_name": "Aarhus University",
+    "country": "DNK"
+  },
+  {
+    "id": "U-0471",
+    "name": "Bonn U.",
+    "formal_name": "Bonn University",
+    "country": "DEU"
+  },
+  {
+    "id": "U-0635",
+    "name": "TU Delft",
+    "formal_name": "Delft University of Technology",
+    "country": "NLD"
+  },
+  {
+    "id": "U-0676",
+    "name": "D.C.U.",
+    "formal_name": "Dublin City University",
+    "country": "IRL"
+  },
+  {
+    "id": "U-0711",
+    "name": "TU/e",
+    "formal_name": "Eindhoven University of Technology",
+    "country": "NLD"
+  },
+  {
+    "id": "U-0798",
+    "name": "FAU",
+    "formal_name": "Friedrich-Alexander-University Erlangen-Nuremberg",
+    "country": "DEU"
+  },
+  {
+    "id": "U-0998",
+    "name": "Jacobs U",
+    "formal_name": "Jacobs University",
+    "country": "DEU"
+  },
+  {
+    "id": "U-1133",
+    "name": "KTH",
+    "formal_name": "KTH - Royal Institute of Technology",
+    "country": "SWE"
+  },
+  {
+    "id": "U-1172",
+    "name": "Leiden University",
+    "formal_name": "Leiden University",
+    "country": "NLD"
+  },
+  {
+    "id": "U-1180",
+    "name": "LIU",
+    "formal_name": "Linköping University",
+    "country": "SWE"
+  },
+  {
+    "id": "U-1192",
+    "name": "LU",
+    "formal_name": "Lund University",
+    "country": "SWE"
+  },
+  {
+    "id": "U-1227",
+    "name": "Uni Lübeck",
+    "formal_name": "Universität zu Lübeck",
+    "country": "DEU"
+  },
+  {
+    "id": "U-1393",
+    "name": "Norwegian TNU",
+    "formal_name": "Norwegian University of Science and Technology",
+    "country": "NOR"
+  },
+  {
+    "id": "U-1833",
+    "name": "TUM",
+    "formal_name": "Technische Universität München",
+    "country": "DEU"
+  },
+  {
+    "id": "U-1936",
+    "name": "UmU",
+    "formal_name": "Umeå University",
+    "country": "SWE"
+  },
+  {
+    "id": "U-2086",
+    "name": "KIT",
+    "formal_name": "Karlsruhe Institute of Technology",
+    "country": "DEU"
+  },
+  {
+    "id": "U-2088",
+    "name": "Uni Rostock",
+    "formal_name": "Universität Rostock",
+    "country": "DEU"
+  },
+  {
+    "id": "U-2096",
+    "name": "U.U.",
+    "formal_name": "Universiteit Utrecht",
+    "country": "NLD"
+  },
+  {
+    "id": "U-2134",
+    "name": "Cambridge",
+    "formal_name": "University of Cambridge",
+    "country": "GBR"
+  },
+  {
+    "id": "U-2145",
+    "name": "DIKU",
+    "formal_name": "University of Copenhagen",
+    "country": "DNK"
+  },
+  {
+    "id": "U-2233",
+    "name": "UiOslo",
+    "formal_name": "University of Oslo",
+    "country": "NOR"
+  },
+  {
+    "id": "U-2307",
+    "name": "UTwente",
+    "formal_name": "University of Twente",
+    "country": "NLD"
+  },
+  {
+    "id": "U-2338",
+    "name": "Uppsala U.",
+    "formal_name": "Uppsala University",
+    "country": "SWE"
+  },
+  {
+    "id": "U-2381",
+    "name": "VU",
+    "formal_name": "Vrije Universiteit",
+    "country": "NLD"
+  },
+  {
+    "id": "U-2986",
+    "name": "U Helsinki",
+    "formal_name": "University of Helsinki",
+    "country": "FIN"
+  },
+  {
+    "id": "U-3052",
+    "name": "Reykjavik U",
+    "formal_name": "Reykjavik University",
+    "country": "ISL"
+  },
+  {
+    "id": "U-3088",
+    "name": "AVANS",
+    "formal_name": "Avans Hogeschool's - Hertogenbosch",
+    "country": "NLD"
+  },
+  {
+    "id": "U-3179",
+    "name": "",
+    "formal_name": "Katholieke Universiteit Leuven",
+    "country": "BEL"
+  },
+  {
+    "id": "U-3264",
+    "name": "Oxford",
+    "formal_name": "University of Oxford",
+    "country": "GBR"
+  },
+  {
+    "id": "U-3316",
+    "name": "Imperial",
+    "formal_name": "Imperial College London",
+    "country": "GBR"
+  },
+  {
+    "id": "U-3317",
+    "name": "UCD",
+    "formal_name": "University College Dublin",
+    "country": "IRL"
+  },
+  {
+    "id": "U-3386",
+    "name": "Nottingham",
+    "formal_name": "University of Nottingham",
+    "country": "GBR"
+  },
+  {
+    "id": "U-4257",
+    "name": "JGU",
+    "formal_name": "Johannes Gutenberg Universität Mainz",
+    "country": "DEU"
+  },
+  {
+    "id": "U-5077",
+    "name": "Bath",
+    "formal_name": "University of Bath",
+    "country": "GBR"
+  },
+  {
+    "id": "U-5267",
+    "name": "Manchester",
+    "formal_name": "University of Manchester",
+    "country": "GBR"
+  },
+  {
+    "id": "U-5313",
+    "name": "UEDIN",
+    "formal_name": "University of Edinburgh",
+    "country": "GBR"
+  },
+  {
+    "id": "U-6062",
+    "name": "UoL",
+    "formal_name": "University of Liverpool",
+    "country": "GBR"
+  },
+  {
+    "id": "U-6104",
+    "name": "Southampton",
+    "formal_name": "University of Southampton",
+    "country": "GBR"
+  },
+  {
+    "id": "U-6175",
+    "name": "Warwick",
+    "formal_name": "University of Warwick",
+    "country": "GBR"
+  },
+  {
+    "id": "U-6253",
+    "name": "UCL",
+    "formal_name": "University College London",
+    "country": "GBR"
+  },
+  {
+    "id": "U-7250",
+    "name": "Radboud",
+    "formal_name": "Radboud University",
+    "country": "NLD"
+  },
+  {
+    "id": "U-18628",
+    "name": "FH FFM",
+    "formal_name": "Frankfurt am Main University of Applied Sciences",
+    "country": ""
+  },
+  {
+    "id": "U-18717",
+    "name": "UdS",
+    "formal_name": "Universitaet des Saarlandes",
+    "country": ""
+  },
+  {
+    "id": "U-18720",
+    "name": "U Bergen",
+    "formal_name": "University of Bergen",
+    "country": ""
+  },
+  {
+    "id": "U-19555",
+    "name": "UCLouvain",
+    "formal_name": "Université Catholique de Louvain",
+    "country": "BEL"
   }
 ]
