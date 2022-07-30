@@ -340,5 +340,35 @@
     "name": "Picnic",
     "formal_name": "Picnic",
     "country": "NLD"
+  },
+  {
+    "id": "C-0014",
+    "name": "ING",
+    "formal_name": "ING",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0015",
+    "name": "Flow Traders",
+    "formal_name": "Flow Traders",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0016",
+    "name": "Prodrive Technologies",
+    "formal_name": "Prodrive Technologies",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0017",
+    "name": "Quintiq",
+    "formal_name": "Quintiq",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0018",
+    "name": "OVSoftware",
+    "formal_name": "OVSoftware",
+    "country": "NLD"
   }
 ]

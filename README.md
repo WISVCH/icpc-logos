@@ -77,6 +77,11 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./logos/C-0011.svg" width="64" height="64"> | C-0011 |  bol.com | :heavy_check_mark: |
 | <img src="./logos/C-0012.svg" width="64" height="64"> | C-0012 |  OrangeMason B.V. | :heavy_check_mark: |
 | <img src="./logos/C-0013.svg" width="64" height="64"> | C-0013 |  Picnic | :heavy_check_mark: |
+| <img src="./logos/C-0014.svg" width="64" height="64"> | C-0014 |  ING | :heavy_check_mark: |
+| <img src="./logos/C-0015.svg" width="64" height="64"> | C-0015 |  Flow Traders | :heavy_check_mark: |
+| <img src="./logos/C-0016.svg" width="64" height="64"> | C-0016 |  Prodrive Technologies | :heavy_check_mark: |
+| <img src="./logos/C-0017.svg" width="64" height="64"> | C-0017 |  Quintiq | :heavy_check_mark: |
+| <img src="./logos/C-0018.svg" width="64" height="64"> | C-0018 |  OVSoftware | :heavy_check_mark: |
 
 ### Legend
 
