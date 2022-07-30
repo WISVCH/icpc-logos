@@ -75,6 +75,8 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./logos/C-0008.svg" width="64" height="64"> | C-0008 |  Ortec International B.V. | :heavy_check_mark: |
 | <img src="./logos/C-0010.svg" width="64" height="64"> | C-0010 |  Sioux Technologies B.V. | :heavy_check_mark: |
 | <img src="./logos/C-0011.svg" width="64" height="64"> | C-0011 |  bol.com | :heavy_check_mark: |
+| <img src="./logos/C-0012.svg" width="64" height="64"> | C-0012 |  OrangeMason B.V. | :heavy_check_mark: |
+| <img src="./logos/C-0013.svg" width="64" height="64"> | C-0013 |  Picnic | :heavy_check_mark: |
 
 ### Legend
 

@@ -328,5 +328,17 @@
     "name": "bol.com",
     "formal_name": "bol.com",
     "country": "NLD"
+  },
+  {
+    "id": "C-0012",
+    "name": "OrangeMason",
+    "formal_name": "OrangeMason B.V.",
+    "country": "NLD"
+  },
+  {
+    "id": "C-0013",
+    "name": "Picnic",
+    "formal_name": "Picnic",
+    "country": "NLD"
   }
 ]
