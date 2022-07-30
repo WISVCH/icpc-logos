@@ -174,15 +174,23 @@ joinByChar() {
   echo "$*"
 }
 
+# This function is to export a svg to png with the given path and name
 export_svg () {
   svg_path=$1
   name=$2
+
+  if [ ! -f "$svg_path" ]; then
+    echo "Can't find $svg_path for $name"
+    return
+  fi
+
 
   tmpfile=$(mktemp /tmp/svg_logos.XXXXXX)
   cp $svg_path $tmpfile
 
   exports=("select:black;selection-hide")
 
+  # For every size export a transparent and background version (if neccesery)
   for s in ${_arg_sizes[@]}; do
     if [ "$_arg_background" = on ]; then
       output_file="$_arg_output_directory/background_$s/$name.png"
@@ -206,6 +214,7 @@ export_svg () {
 UNIVERSITIES_PATH="universities"
 COMPANIES_PATH="companies"
 
+# Make the output directories
 [ -d $_arg_output_directory ] || mkdir $_arg_output_directory
 for s in ${_arg_sizes[@]}; do
   if [ "$_arg_background" = on ]; then
@@ -218,6 +227,7 @@ for s in ${_arg_sizes[@]}; do
   fi
 done
 
+# Merge the organization jsons
 organizations_paths=()
 if [ "$_arg_universities" = on ]; then
   organizations_paths+=( "$UNIVERSITIES_PATH/organizations.json" )
@@ -228,7 +238,7 @@ fi
 
 jq -s "[.[][]]" "${organizations_paths[@]}" > "$_arg_output_directory/organizations.json"
 
-
+# Export the svgs
 if [ "$_arg_universities" = on ]; then
   organizations=$(cat "$UNIVERSITIES_PATH/organizations.json" | jq -r .\[\].id)
   for i in $organizations; do
