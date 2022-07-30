@@ -9,9 +9,12 @@
 	.st3{fill:#F9B500;}
 </style>
 <rect id="black" width="256" height="256"/>
-<circle id="background_x5F_circle" class="st0" cx="128" cy="128" r="128"/>
-<path id="background_x5F_rectangle" class="st1" d="M206.9,256H49.1C22.1,256,0,233.9,0,206.9V49.1C0,22.1,22.1,0,49.1,0h157.9
-	c27,0,49.1,22.1,49.1,49.1v157.9C256,233.9,233.9,256,206.9,256z"/>
+<circle
+   id="background"
+   class="st0"
+   cx="128"
+   cy="128"
+   r="128" />
 <g id="logo">
 	<g>
 		<path id="DCU_2_" class="st2" d="M192.3,136.2v24c-0.3,7.3-0.3,14.1-7,18.8c-3.5,2.6-8.4,3.5-12.8,3.5c-7.6,0-16.9-2.3-19.3-10.8

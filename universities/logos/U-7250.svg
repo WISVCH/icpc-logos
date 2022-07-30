@@ -8,9 +8,12 @@
 	.st2{fill:#1D1D1B;}
 </style>
 <rect id="black" width="256" height="256"/>
-<circle id="background_x5F_circle" class="st0" cx="128" cy="128" r="128"/>
-<path id="background_x5F_rectangle" class="st1" d="M206.9,256H49.1C22.1,256,0,233.9,0,206.9V49.1C0,22.1,22.1,0,49.1,0h157.9
-	c27,0,49.1,22.1,49.1,49.1v157.9C256,233.9,233.9,256,206.9,256z"/>
+<circle
+   id="background"
+   class="st0"
+   cx="128"
+   cy="128"
+   r="128" />
 <g id="logo">
 	<g>
 		<path class="st2" d="M62.3,143.6l-0.4,1l-12.6-0.3l-0.8-1.1l-0.8,0v7.7c-0.2,3.5,3.4,7.8,8.2,7.8c4.5-0.2,6.7-4.5,7-8.5l0.5-6.7
