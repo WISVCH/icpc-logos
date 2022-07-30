@@ -47,8 +47,8 @@ jobs:
           docker-compose -f .github/workflows/domjudge/docker-compose.yml up -d domjudge
           sleep 1m
           ADMINPASS=$(docker exec -i domjudge_domjudge_1 cat /opt/domjudge/domserver/etc/initial_admin_password.secret)
-          http -a admin:$ADMINPASS --check-status -b -f POST "http://localhost:12345/api/users/organizations" json@organizations.json
-          jq "[.[] | {\"organization_id\": .id, \"name\": .formal_name, \"id\":1, \"group_ids\": [\"3\"]}] | to_entries | map( (.value.id = \"\(1+.key)\" ) | .value)" organizations.json > teams.json
+          http -a admin:$ADMINPASS --check-status -b -f POST "http://localhost:12345/api/users/organizations" json@out/organizations.json
+          jq "[.[] | {\"organization_id\": .id, \"name\": .formal_name, \"id\":1, \"group_ids\": [\"3\"]}] | to_entries | map( (.value.id = \"\(1+.key)\" ) | .value)" out/organizations.json > teams.json
           http -a admin:$ADMINPASS --check-status -b -f POST "http://localhost:12345/api/users/teams" json@teams.json
           http -a admin:$ADMINPASS --check-status -b PUT "http://localhost:12345/api/config" show_affiliation_logos=true show_flags=true data_source=1 --ignore-stdin
           http -a admin:$ADMINPASS --verbose --check-status -b GET "http://localhost:12345/api/config"
@@ -77,4 +77,4 @@ jobs:
           prerelease: false
           files: |
             ${{ github.workspace }}/out/*.zip
-            ${{ github.workspace }}/organizations.json
+            ${{ github.workspace }}/out/organizations.json
