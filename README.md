@@ -66,6 +66,15 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./logos/U-2096.svg" width="64" height="64"> | U-2096 |  Universiteit Utrecht | :question: |
 | <img src="./logos/U-6253.svg" width="64" height="64"> | U-6253 |  University College London | :heavy_check_mark: |
 | <img src="./logos/U-1227.svg" width="64" height="64"> | U-1227 |  Universität zu Lübeck | :heavy_check_mark: |
+| <img src="./logos/C-0002.svg" width="64" height="64"> | C-0002 |  ASML | :heavy_check_mark: |
+| <img src="./logos/C-0003.svg" width="64" height="64"> | C-0003 |  BetterBe B.V. | :heavy_check_mark: |
+| <img src="./logos/C-0004.svg" width="64" height="64"> | C-0004 |  Booking.com | :heavy_check_mark: |
+| <img src="./logos/C-0005.svg" width="64" height="64"> | C-0005 |  Centrum Wiskunde & Informatica | :heavy_check_mark: |
+| <img src="./logos/C-0006.svg" width="64" height="64"> | C-0006 |  Dassault Systèmes | :heavy_check_mark: |
+| <img src="./logos/C-0007.svg" width="64" height="64"> | C-0007 |  IMC Trading B.V. | :heavy_check_mark: |
+| <img src="./logos/C-0008.svg" width="64" height="64"> | C-0008 |  Ortec International B.V. | :heavy_check_mark: |
+| <img src="./logos/C-0010.svg" width="64" height="64"> | C-0010 |  Sioux Technologies B.V. | :heavy_check_mark: |
+| <img src="./logos/C-0011.svg" width="64" height="64"> | C-0011 |  bol.com | :heavy_check_mark: |
 
 ### Legend
 
