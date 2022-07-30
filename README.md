@@ -80,7 +80,7 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./logos/U-6175.svg" width="64" height="64"> | U-6175 |  University of Warwick | :heavy_check_mark: |
 | <img src="./logos/U-6253.svg" width="64" height="64"> | U-6253 |  University College London | :heavy_check_mark: |
 | <img src="./logos/U-7250.svg" width="64" height="64"> | U-7250 |  Radboud University | :heavy_check_mark: |
-| <img src="./logos/U-18628.svg" width="64" height="64"> | U-18628 |  Frankfurt am Main University of Applied Sciences | :question: |
+| <img src="./logos/U-18628.svg" width="64" height="64"> | U-18628 |  Frankfurt am Main University of Applied Sciences | :heavy_check_mark: |
 | <img src="./logos/U-18717.svg" width="64" height="64"> | U-18717 |  Universitaet des Saarlandes | :question: |
 | <img src="./logos/U-18720.svg" width="64" height="64"> | U-18720 |  University of Bergen | :question: |
 | <img src="./logos/U-19555.svg" width="64" height="64"> | U-19555 |  Université Catholique de Louvain | :heavy_check_mark: |
