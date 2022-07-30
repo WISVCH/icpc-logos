@@ -9,6 +9,7 @@ For DOMJudge use the `background_64.zip`.
 
 - Add a organization by duplicating one of the existing logos, and change the content of the logos group.
   - It is important the logos group still exists, and contains the logo.
+  - The logo might already be in the `no_orginazations_yet` directory. Look there first.
 - Add the organization to `organizations.json`.
   - As `id`, use the ICPC id, starting with a `U-`.
   - For companies, just pick the next free one starting with a `C-`.
