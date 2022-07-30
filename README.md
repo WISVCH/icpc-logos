@@ -21,7 +21,7 @@ For DOMJudge use the `background_64.zip`.
 
 
 | Logo | ICPC ID | Name | Status |
-|---|---|---|
+|---|---|---|---|
 | <img src="./logos/C-0002.svg" width="64" height="64"> | C-0002 |  ASML | :heavy_check_mark: |
 | <img src="./logos/C-0003.svg" width="64" height="64"> | C-0003 |  BetterBe B.V. | :heavy_check_mark: |
 | <img src="./logos/C-0004.svg" width="64" height="64"> | C-0004 |  Booking.com | :heavy_check_mark: |
