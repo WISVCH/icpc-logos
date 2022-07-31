@@ -3,6 +3,7 @@
 # Created by argbash-init v2.10.0
 # ARG_OPTIONAL_BOOLEAN([universities],[u],[Export the icons of the universities],[on])
 # ARG_OPTIONAL_BOOLEAN([companies],[c],[Export the icons of the companies],[on])
+# ARG_OPTIONAL_BOOLEAN([studies],[s],[Export the icons of the studies],[on])
 # ARG_OPTIONAL_BOOLEAN([background],[b],[Export the icons with their background],[on])
 # ARG_OPTIONAL_BOOLEAN([transparent],[t],[Export the icons with a transaprent background],[on])
 # ARG_OPTIONAL_SINGLE([output-directory],[o],[Directory to put the results],[out])
@@ -26,7 +27,7 @@ die()
 
 begins_with_short_option()
 {
-	local first_option all_short_options='ucbtoh'
+	local first_option all_short_options='ucsbtoh'
 	first_option="${1:0:1}"
 	test "$all_short_options" = "${all_short_options/$first_option/}" && return 1 || return 0
 }
@@ -37,6 +38,7 @@ _arg_sizes=("64")
 # THE DEFAULTS INITIALIZATION - OPTIONALS
 _arg_universities="on"
 _arg_companies="on"
+_arg_studies="on"
 _arg_background="on"
 _arg_transparent="on"
 _arg_output_directory="out"
@@ -45,10 +47,11 @@ _arg_output_directory="out"
 print_help()
 {
 	printf '%s\n' "Export th svg icons in different sizes."
-	printf 'Usage: %s [-u|--(no-)universities] [-c|--(no-)companies] [-b|--(no-)background] [-t|--(no-)transparent] [-o|--output-directory <arg>] [-h|--help] [<sizes-1>] ... [<sizes-n>] ...\n' "$0"
+	printf 'Usage: %s [-u|--(no-)universities] [-c|--(no-)companies] [-s|--(no-)studies] [-b|--(no-)background] [-t|--(no-)transparent] [-o|--output-directory <arg>] [-h|--help] [<sizes-1>] ... [<sizes-n>] ...\n' "$0"
 	printf '\t%s\n' "<sizes>: The pixel size to export the icons in (defaults for <sizes>: '64')"
 	printf '\t%s\n' "-u, --universities, --no-universities: Export the icons of the universities (on by default)"
 	printf '\t%s\n' "-c, --companies, --no-companies: Export the icons of the companies (on by default)"
+	printf '\t%s\n' "-s, --studies, --no-studies: Export the icons of the studies (on by default)"
 	printf '\t%s\n' "-b, --background, --no-background: Export the icons with their background (on by default)"
 	printf '\t%s\n' "-t, --transparent, --no-transparent: Export the icons with a transaprent background (on by default)"
 	printf '\t%s\n' "-o, --output-directory: Directory to put the results (default: 'out')"
@@ -85,6 +88,18 @@ parse_commandline()
 				if test -n "$_next" -a "$_next" != "$_key"
 				then
 					{ begins_with_short_option "$_next" && shift && set -- "-c" "-${_next}" "$@"; } || die "The short option '$_key' can't be decomposed to ${_key:0:2} and -${_key:2}, because ${_key:0:2} doesn't accept value and '-${_key:2:1}' doesn't correspond to a short option."
+				fi
+				;;
+			-s|--no-studies|--studies)
+				_arg_studies="on"
+				test "${1:0:5}" = "--no-" && _arg_studies="off"
+				;;
+			-s*)
+				_arg_studies="on"
+				_next="${_key##-s}"
+				if test -n "$_next" -a "$_next" != "$_key"
+				then
+					{ begins_with_short_option "$_next" && shift && set -- "-s" "-${_next}" "$@"; } || die "The short option '$_key' can't be decomposed to ${_key:0:2} and -${_key:2}, because ${_key:0:2} doesn't accept value and '-${_key:2:1}' doesn't correspond to a short option."
 				fi
 				;;
 			-b|--no-background|--background)
@@ -213,6 +228,7 @@ export_svg () {
 
 UNIVERSITIES_PATH="universities"
 COMPANIES_PATH="companies"
+STUDIES_PATH="studies"
 
 # Make the output directories
 [ -d $_arg_output_directory ] || mkdir $_arg_output_directory
@@ -235,8 +251,11 @@ fi
 if [ "$_arg_companies" = on ]; then
   organizations_paths+=( "$COMPANIES_PATH/organizations.json" )
 fi
+if [ "$_arg_studies" = on ]; then
+  organizations_paths+=( "$STUDIES_PATH/organizations.json" )
+fi
 
-jq -s "[.[][]]" "${organizations_paths[@]}" > "$_arg_output_directory/organizations.json"
+jq -s "[.[][] | {\"id\": .id, \"name\": .name, \"formal_name\": .formal_name, \"country\": (.country? + \"\")}]" "${organizations_paths[@]}" > "$_arg_output_directory/organizations.json"
 
 # Export the svgs
 if [ "$_arg_universities" = on ]; then
@@ -249,6 +268,20 @@ if [ "$_arg_companies" = on ]; then
   organizations=$(cat "$COMPANIES_PATH/organizations.json" | jq -r .\[\].id)
   for i in $organizations; do
     export_svg "$COMPANIES_PATH/logos/$i.svg" $i
+  done
+fi
+if [ "$_arg_studies" = on ]; then
+	SAVEIFS=$IFS   # Save current IFS (Internal Field Separator)
+	IFS=$'\n'      # Change IFS to newline char
+  organizations=($(cat "$STUDIES_PATH/organizations.json" | jq -r .\[\].id))
+  combinations=($(cat "$STUDIES_PATH/organizations.json" | jq -r ".[].studies|join(\" \")"))
+	IFS=$SAVEIFS   # Restore original IFS
+
+  for i in "${!organizations[@]}"; do
+		tmpsvg=$(mktemp /tmp/svg_logos.XXXXXX)
+		$STUDIES_PATH/generate_affiliation.py -o "$tmpsvg" ${combinations[$i]}
+    export_svg "$tmpsvg" "${organizations[$i]}"
+		rm "$tmpsvg"
   done
 fi
 

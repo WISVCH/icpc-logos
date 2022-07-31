@@ -15,10 +15,11 @@ jobs:
       - name: Install inkscape
         run: sudo add-apt-repository ppa:inkscape.dev/stable && sudo apt update && sudo apt-get install inkscape
       - run: inkscape --version
+      - run: pip install svgutils
       - name: Checkout
         uses: actions/checkout@v2
       - name: Run export
-        run: ./export.sh --universities --companies --background --transparent --output-directory out 64 256
+        run: ./export.sh --universities --companies --studies --background --transparent --output-directory out 64 256
       - uses: actions/upload-artifact@v2
         with:
           name: logos
@@ -50,7 +51,7 @@ jobs:
           http -a admin:$ADMINPASS --check-status -b -f POST "http://localhost:12345/api/users/organizations" json@out/organizations.json
           jq "[.[] | {\"organization_id\": .id, \"name\": .formal_name, \"id\":1, \"group_ids\": [\"3\"]}] | to_entries | map( (.value.id = \"\(1+.key)\" ) | .value)" out/organizations.json > teams.json
           http -a admin:$ADMINPASS --check-status -b -f POST "http://localhost:12345/api/users/teams" json@teams.json
-          http -a admin:$ADMINPASS --check-status -b PUT "http://localhost:12345/api/config" show_affiliation_logos=true show_flags=true data_source=1 --ignore-stdin
+          http -a admin:$ADMINPASS --check-status -b PUT "http://localhost:12345/api/config" show_affiliation_logos=true show_flags=true show_affiliations=true data_source=1 --ignore-stdin
           http -a admin:$ADMINPASS --verbose --check-status -b GET "http://localhost:12345/api/config"
           xvfb-run --server-args="-screen 0, 1024x768x24" cutycapt --url=http://localhost:12345 --out=scoreboard.png
       - uses: actions/upload-artifact@v2
