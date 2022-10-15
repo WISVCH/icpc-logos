@@ -42,20 +42,20 @@ For DOMJudge use the `background_64.zip`.
 |---|---|
 | :x: | Missing |
 | :question: | Present, but needs verification |
-| :heavy_check_mark: | Verified
+| :heavy_check_mark: | Verified |
 
 ### Universities
 
 | Logo | ICPC ID | Name | Status |
 |---|---|---|---|
-| <img src="./universities/logos/U-0001.svg" width="32" height="32"> | U-0001 |  Lappeenranta University of Technology | :heavy_check_mark: |
-| <img src="./universities/logos/U-0016.svg" width="32" height="32"> | U-0016 |  Aarhus University | :heavy_check_mark: |
-| <img src="./universities/logos/U-0471.svg" width="32" height="32"> | U-0471 |  Bonn University | :heavy_check_mark: |
-| <img src="./universities/logos/U-0635.svg" width="32" height="32"> | U-0635 |  Delft University of Technology | :heavy_check_mark: |
-| <img src="./universities/logos/U-0676.svg" width="32" height="32"> | U-0676 |  Dublin City University | :heavy_check_mark: |
-| <img src="./universities/logos/U-0711.svg" width="32" height="32"> | U-0711 |  Eindhoven University of Technology | :heavy_check_mark: |
-| <img src="./universities/logos/U-0798.svg" width="32" height="32"> | U-0798 |  Friedrich-Alexander-University Erlangen-Nuremberg | :heavy_check_mark: |
-| <img src="./universities/logos/U-0998.svg" width="32" height="32"> | U-0998 |  Jacobs University | :heavy_check_mark: |
+| <img src="./universities/logos/U-1.svg" width="32" height="32"> | U-1 |  Lappeenranta University of Technology | :heavy_check_mark: |
+| <img src="./universities/logos/U-16.svg" width="32" height="32"> | U-16 |  Aarhus University | :heavy_check_mark: |
+| <img src="./universities/logos/U-471.svg" width="32" height="32"> | U-471 |  Bonn University | :heavy_check_mark: |
+| <img src="./universities/logos/U-635.svg" width="32" height="32"> | U-635 |  Delft University of Technology | :heavy_check_mark: |
+| <img src="./universities/logos/U-676.svg" width="32" height="32"> | U-676 |  Dublin City University | :heavy_check_mark: |
+| <img src="./universities/logos/U-711.svg" width="32" height="32"> | U-711 |  Eindhoven University of Technology | :heavy_check_mark: |
+| <img src="./universities/logos/U-798.svg" width="32" height="32"> | U-798 |  Friedrich-Alexander-University Erlangen-Nuremberg | :heavy_check_mark: |
+| <img src="./universities/logos/U-998.svg" width="32" height="32"> | U-998 |  Jacobs University | :heavy_check_mark: |
 | <img src="./universities/logos/U-1133.svg" width="32" height="32"> | U-1133 |  KTH - Royal Institute of Technology | :heavy_check_mark: |
 | <img src="./universities/logos/U-1172.svg" width="32" height="32"> | U-1172 |  Leiden University | :heavy_check_mark: |
 | <img src="./universities/logos/U-1180.svg" width="32" height="32"> | U-1180 |  Linköping University | :heavy_check_mark: |
@@ -66,8 +66,8 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./universities/logos/U-1936.svg" width="32" height="32"> | U-1936 |  Umeå University | :heavy_check_mark: |
 | <img src="./universities/logos/U-2086.svg" width="32" height="32"> | U-2086 |  Karlsruhe Institute of Technology | :heavy_check_mark: |
 | <img src="./universities/logos/U-2088.svg" width="32" height="32"> | U-2088 |  Universität Rostock | :heavy_check_mark: |
-| <img src="./universities/logos/U-2096.svg" width="32" height="32"> | U-2096 |  Universiteit Utrecht | :question: |
-| <img src="./universities/logos/U-2134.svg" width="32" height="32"> | U-2134 |  University of Cambridge | :question: |
+| <img src="./universities/logos/U-2096.svg" width="32" height="32"> | U-2096 |  Universiteit Utrecht | :heavy_check_mark: |
+| <img src="./universities/logos/U-2134.svg" width="32" height="32"> | U-2134 |  University of Cambridge | :heavy_check_mark: |
 | <img src="./universities/logos/U-2145.svg" width="32" height="32"> | U-2145 |  University of Copenhagen | :heavy_check_mark: |
 | <img src="./universities/logos/U-2233.svg" width="32" height="32"> | U-2233 |  University of Oslo | :heavy_check_mark: |
 | <img src="./universities/logos/U-2307.svg" width="32" height="32"> | U-2307 |  University of Twente | :heavy_check_mark: |
@@ -79,7 +79,7 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./universities/logos/U-3179.svg" width="32" height="32"> | U-3179 |  Katholieke Universiteit Leuven | :heavy_check_mark: |
 | <img src="./universities/logos/U-3264.svg" width="32" height="32"> | U-3264 |  University of Oxford | :heavy_check_mark: |
 | <img src="./universities/logos/U-3316.svg" width="32" height="32"> | U-3316 |  Imperial College London | :heavy_check_mark: |
-| <img src="./universities/logos/U-3317.svg" width="32" height="32"> | U-3317 |  University College Dublin | :question: |
+| <img src="./universities/logos/U-3317.svg" width="32" height="32"> | U-3317 |  University College Dublin | :heavy_check_mark: |
 | <img src="./universities/logos/U-3386.svg" width="32" height="32"> | U-3386 |  University of Nottingham | :heavy_check_mark: |
 | <img src="./universities/logos/U-4257.svg" width="32" height="32"> | U-4257 |  Johannes Gutenberg Universität Mainz | :heavy_check_mark: |
 | <img src="./universities/logos/U-5077.svg" width="32" height="32"> | U-5077 |  University of Bath | :heavy_check_mark: |
@@ -99,30 +99,30 @@ For DOMJudge use the `background_64.zip`.
 
 | Logo | ID | Name | Status |
 |---|---|---|---|
-| <img src="./companies/logos/C-0002.svg" width="32" height="32"> | C-0002 |  ASML | :heavy_check_mark: |
-| <img src="./companies/logos/C-0003.svg" width="32" height="32"> | C-0003 |  BetterBe B.V. | :heavy_check_mark: |
-| <img src="./companies/logos/C-0004.svg" width="32" height="32"> | C-0004 |  Booking.com | :heavy_check_mark: |
-| <img src="./companies/logos/C-0005.svg" width="32" height="32"> | C-0005 |  Centrum Wiskunde & Informatica | :heavy_check_mark: |
-| <img src="./companies/logos/C-0006.svg" width="32" height="32"> | C-0006 |  Dassault Systèmes | :heavy_check_mark: |
-| <img src="./companies/logos/C-0007.svg" width="32" height="32"> | C-0007 |  IMC Trading B.V. | :heavy_check_mark: |
-| <img src="./companies/logos/C-0008.svg" width="32" height="32"> | C-0008 |  Ortec International B.V. | :heavy_check_mark: |
-| <img src="./companies/logos/C-0010.svg" width="32" height="32"> | C-0010 |  Sioux Technologies B.V. | :heavy_check_mark: |
-| <img src="./companies/logos/C-0011.svg" width="32" height="32"> | C-0011 |  bol.com | :heavy_check_mark: |
-| <img src="./companies/logos/C-0012.svg" width="32" height="32"> | C-0012 |  OrangeMason B.V. | :heavy_check_mark: |
-| <img src="./companies/logos/C-0013.svg" width="32" height="32"> | C-0013 |  Picnic | :heavy_check_mark: |
-| <img src="./companies/logos/C-0014.svg" width="32" height="32"> | C-0014 |  ING | :heavy_check_mark: |
-| <img src="./companies/logos/C-0015.svg" width="32" height="32"> | C-0015 |  Flow Traders | :heavy_check_mark: |
-| <img src="./companies/logos/C-0016.svg" width="32" height="32"> | C-0016 |  Prodrive Technologies | :heavy_check_mark: |
-| <img src="./companies/logos/C-0017.svg" width="32" height="32"> | C-0017 |  Quintiq | :heavy_check_mark: |
-| <img src="./companies/logos/C-0018.svg" width="32" height="32"> | C-0018 |  OVSoftware | :heavy_check_mark: |
+| <img src="./companies/logos/C-2.svg" width="32" height="32"> | C-2 |  ASML | :heavy_check_mark: |
+| <img src="./companies/logos/C-3.svg" width="32" height="32"> | C-3 |  BetterBe B.V. | :heavy_check_mark: |
+| <img src="./companies/logos/C-4.svg" width="32" height="32"> | C-4 |  Booking.com | :heavy_check_mark: |
+| <img src="./companies/logos/C-5.svg" width="32" height="32"> | C-5 |  Centrum Wiskunde & Informatica | :heavy_check_mark: |
+| <img src="./companies/logos/C-6.svg" width="32" height="32"> | C-6 |  Dassault Systèmes | :heavy_check_mark: |
+| <img src="./companies/logos/C-7.svg" width="32" height="32"> | C-7 |  IMC Trading B.V. | :heavy_check_mark: |
+| <img src="./companies/logos/C-8.svg" width="32" height="32"> | C-8 |  Ortec International B.V. | :heavy_check_mark: |
+| <img src="./companies/logos/C-10.svg" width="32" height="32"> | C-10 |  Sioux Technologies B.V. | :heavy_check_mark: |
+| <img src="./companies/logos/C-11.svg" width="32" height="32"> | C-11 |  bol.com | :heavy_check_mark: |
+| <img src="./companies/logos/C-12.svg" width="32" height="32"> | C-12 |  OrangeMason B.V. | :heavy_check_mark: |
+| <img src="./companies/logos/C-13.svg" width="32" height="32"> | C-13 |  Picnic | :heavy_check_mark: |
+| <img src="./companies/logos/C-14.svg" width="32" height="32"> | C-14 |  ING | :heavy_check_mark: |
+| <img src="./companies/logos/C-15.svg" width="32" height="32"> | C-15 |  Flow Traders | :heavy_check_mark: |
+| <img src="./companies/logos/C-16.svg" width="32" height="32"> | C-16 |  Prodrive Technologies | :heavy_check_mark: |
+| <img src="./companies/logos/C-17.svg" width="32" height="32"> | C-17 |  Quintiq | :heavy_check_mark: |
+| <img src="./companies/logos/C-18.svg" width="32" height="32"> | C-18 |  OVSoftware | :heavy_check_mark: |
 
 ### Studies
 
 | Icon 1 | Icon 2 | Icon 3 | ID | Name | Status |
 |---|---|---|---|---|---|
-| <img src="./studies/logos/CSE.svg" width="16" height="16"> |   |   | S-0001 |  Computer Science & Engineering | :heavy_check_mark: |
-| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/NB.svg" width="16" height="16"> |   | S-0002 |  Computer Science & Engineering + Nanobiology | :heavy_check_mark: |
-| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/TW.svg" width="16" height="16"> |   | S-0003 |  Computer Science & Engineering + Applied Mathematics | :heavy_check_mark: |
-| <img src="./studies/logos/TW.svg" width="16" height="16"> |   |   | S-0004 |  Applied Mathematics | :heavy_check_mark: |
-| <img src="./studies/logos/TW.svg" width="16" height="16"> | <img src="./studies/logos/WB.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> | S-0005 |  Applied Mathematics + Mechanical Engineering + Aerospace Engineering | :heavy_check_mark: |
-| <img src="./studies/logos/EE.svg" width="16" height="16"> |   |   | S-0006 |  Electrical Engineering | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16"> |   |   | S-1 |  Computer Science & Engineering | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/NB.svg" width="16" height="16"> |   | S-2 |  Computer Science & Engineering + Nanobiology | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/TW.svg" width="16" height="16"> |   | S-3 |  Computer Science & Engineering + Applied Mathematics | :heavy_check_mark: |
+| <img src="./studies/logos/TW.svg" width="16" height="16"> |   |   | S-4 |  Applied Mathematics | :heavy_check_mark: |
+| <img src="./studies/logos/TW.svg" width="16" height="16"> | <img src="./studies/logos/WB.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> | S-5 |  Applied Mathematics + Mechanical Engineering + Aerospace Engineering | :heavy_check_mark: |
+| <img src="./studies/logos/EE.svg" width="16" height="16"> |   |   | S-6 |  Electrical Engineering | :heavy_check_mark: |

@@ -1,48 +1,48 @@
 [
   {
-    "id": "U-0001",
+    "id": "U-1",
     "name": "LUT",
     "formal_name": "Lappeenranta University of Technology",
     "country": "FIN"
   },
   {
-    "id": "U-0016",
+    "id": "U-16",
     "name": "Aarhus U.",
     "formal_name": "Aarhus University",
     "country": "DNK"
   },
   {
-    "id": "U-0471",
+    "id": "U-471",
     "name": "Bonn U.",
     "formal_name": "Bonn University",
     "country": "DEU"
   },
   {
-    "id": "U-0635",
+    "id": "U-635",
     "name": "TU Delft",
     "formal_name": "Delft University of Technology",
     "country": "NLD"
   },
   {
-    "id": "U-0676",
+    "id": "U-676",
     "name": "D.C.U.",
     "formal_name": "Dublin City University",
     "country": "IRL"
   },
   {
-    "id": "U-0711",
+    "id": "U-711",
     "name": "TU/e",
     "formal_name": "Eindhoven University of Technology",
     "country": "NLD"
   },
   {
-    "id": "U-0798",
+    "id": "U-798",
     "name": "FAU",
     "formal_name": "Friedrich-Alexander-University Erlangen-Nuremberg",
     "country": "DEU"
   },
   {
-    "id": "U-0998",
+    "id": "U-998",
     "name": "Jacobs U",
     "formal_name": "Jacobs University",
     "country": "DEU"
