@@ -5,6 +5,7 @@
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
 	.st1{display:none;fill:#FFFFFF;}
+	.st2{fill:#FFCC00;}
 </style>
 <rect id="black" width="256" height="256"/>
 <circle
@@ -14,8 +15,11 @@
    cy="128"
    r="128" />
 <g id="logo_00000169557994799884142440000017718490564280908447_">
-	
-		<image style="overflow:visible;enable-background:new    ;" width="654" height="367" xlink:href="../../../Downloads/Logo_veeb_esitlus.png"  transform="matrix(0.3178 0 0 0.3178 24.0687 69.6777)">
-	</image>
+	<g>
+		<path id="path2862" d="M166.3,190.4L121.3,63.6H83.1L38.1,190.4H70l7.8-22.4h48.8l7.8,22.4H166.3z M117.8,142.7H86.6l15.6-45.2
+			L117.8,142.7L117.8,142.7z"/>
+		<path id="path2864" class="st2" d="M178.2,190.4h28.8v-28.8h-28.8V190.4z"/>
+		<path id="path2868" class="st2" d="M207.9,107.5V63.6h-30.5v43.9l6.2,43.9h16.9L207.9,107.5L207.9,107.5z"/>
+	</g>
 </g>
 </svg>

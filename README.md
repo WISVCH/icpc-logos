@@ -42,58 +42,72 @@ For DOMJudge use the `background_64.zip`.
 |---|---|
 | :x: | Missing |
 | :question: | Present, but needs verification |
-| :heavy_check_mark: | Verified |
+| :heavy_check_mark: | Verified
 
 ### Universities
 
 | Logo | ICPC ID | Name | Status |
 |---|---|---|---|
-| <img src="./universities/logos/U-1.svg" width="32" height="32"> | U-1 |  Lappeenranta University of Technology | :heavy_check_mark: |
-| <img src="./universities/logos/U-16.svg" width="32" height="32"> | U-16 |  Aarhus University | :heavy_check_mark: |
-| <img src="./universities/logos/U-471.svg" width="32" height="32"> | U-471 |  Bonn University | :heavy_check_mark: |
-| <img src="./universities/logos/U-635.svg" width="32" height="32"> | U-635 |  Delft University of Technology | :heavy_check_mark: |
-| <img src="./universities/logos/U-676.svg" width="32" height="32"> | U-676 |  Dublin City University | :heavy_check_mark: |
-| <img src="./universities/logos/U-711.svg" width="32" height="32"> | U-711 |  Eindhoven University of Technology | :heavy_check_mark: |
-| <img src="./universities/logos/U-798.svg" width="32" height="32"> | U-798 |  Friedrich-Alexander-University Erlangen-Nuremberg | :heavy_check_mark: |
-| <img src="./universities/logos/U-998.svg" width="32" height="32"> | U-998 |  Jacobs University | :heavy_check_mark: |
-| <img src="./universities/logos/U-1133.svg" width="32" height="32"> | U-1133 |  KTH - Royal Institute of Technology | :heavy_check_mark: |
-| <img src="./universities/logos/U-1172.svg" width="32" height="32"> | U-1172 |  Leiden University | :heavy_check_mark: |
-| <img src="./universities/logos/U-1180.svg" width="32" height="32"> | U-1180 |  Linköping University | :heavy_check_mark: |
-| <img src="./universities/logos/U-1192.svg" width="32" height="32"> | U-1192 |  Lund University | :heavy_check_mark: |
-| <img src="./universities/logos/U-1227.svg" width="32" height="32"> | U-1227 |  Universität zu Lübeck | :heavy_check_mark: |
-| <img src="./universities/logos/U-1393.svg" width="32" height="32"> | U-1393 |  Norwegian University of Science and Technology | :heavy_check_mark: |
-| <img src="./universities/logos/U-1833.svg" width="32" height="32"> | U-1833 |  Technische Universität München | :heavy_check_mark: |
-| <img src="./universities/logos/U-1936.svg" width="32" height="32"> | U-1936 |  Umeå University | :heavy_check_mark: |
-| <img src="./universities/logos/U-2086.svg" width="32" height="32"> | U-2086 |  Karlsruhe Institute of Technology | :heavy_check_mark: |
-| <img src="./universities/logos/U-2088.svg" width="32" height="32"> | U-2088 |  Universität Rostock | :heavy_check_mark: |
-| <img src="./universities/logos/U-2096.svg" width="32" height="32"> | U-2096 |  Universiteit Utrecht | :heavy_check_mark: |
-| <img src="./universities/logos/U-2134.svg" width="32" height="32"> | U-2134 |  University of Cambridge | :heavy_check_mark: |
-| <img src="./universities/logos/U-2145.svg" width="32" height="32"> | U-2145 |  University of Copenhagen | :heavy_check_mark: |
-| <img src="./universities/logos/U-2233.svg" width="32" height="32"> | U-2233 |  University of Oslo | :heavy_check_mark: |
-| <img src="./universities/logos/U-2307.svg" width="32" height="32"> | U-2307 |  University of Twente | :heavy_check_mark: |
-| <img src="./universities/logos/U-2338.svg" width="32" height="32"> | U-2338 |  Uppsala University | :heavy_check_mark: |
-| <img src="./universities/logos/U-2381.svg" width="32" height="32"> | U-2381 |  Vrije Universiteit | :heavy_check_mark: |
-| <img src="./universities/logos/U-2986.svg" width="32" height="32"> | U-2986 |  University of Helsinki | :heavy_check_mark: |
-| <img src="./universities/logos/U-3052.svg" width="32" height="32"> | U-3052 |  Reykjavik University | :heavy_check_mark: |
-| <img src="./universities/logos/U-3088.svg" width="32" height="32"> | U-3088 |  Avans Hogeschool's - Hertogenbosch | :heavy_check_mark: |
-| <img src="./universities/logos/U-3179.svg" width="32" height="32"> | U-3179 |  Katholieke Universiteit Leuven | :heavy_check_mark: |
-| <img src="./universities/logos/U-3264.svg" width="32" height="32"> | U-3264 |  University of Oxford | :heavy_check_mark: |
-| <img src="./universities/logos/U-3316.svg" width="32" height="32"> | U-3316 |  Imperial College London | :heavy_check_mark: |
-| <img src="./universities/logos/U-3317.svg" width="32" height="32"> | U-3317 |  University College Dublin | :heavy_check_mark: |
-| <img src="./universities/logos/U-3386.svg" width="32" height="32"> | U-3386 |  University of Nottingham | :heavy_check_mark: |
-| <img src="./universities/logos/U-4257.svg" width="32" height="32"> | U-4257 |  Johannes Gutenberg Universität Mainz | :heavy_check_mark: |
-| <img src="./universities/logos/U-5077.svg" width="32" height="32"> | U-5077 |  University of Bath | :heavy_check_mark: |
-| <img src="./universities/logos/U-5267.svg" width="32" height="32"> | U-5267 |  University of Manchester | :heavy_check_mark: |
-| <img src="./universities/logos/U-5313.svg" width="32" height="32"> | U-5313 |  University of Edinburgh | :heavy_check_mark: |
-| <img src="./universities/logos/U-6062.svg" width="32" height="32"> | U-6062 |  University of Liverpool | :heavy_check_mark: |
-| <img src="./universities/logos/U-6104.svg" width="32" height="32"> | U-6104 |  University of Southampton | :heavy_check_mark: |
+| <img src="./universities/logos/U-7.svg" width="32" height="32"> | U-7 |  Aarhus University | :heavy_check_mark: |
+| <img src="./universities/logos/U-290.svg" width="32" height="32"> | U-290 |  Christian-Albrechts-Universitaet zu Kiel | :heavy_check_mark: |
+| <img src="./universities/logos/U-362.svg" width="32" height="32"> | U-362 |  Darmstadt University of Technology | :heavy_check_mark: |
+| <img src="./universities/logos/U-367.svg" width="32" height="32"> | U-367 |  Delft University of Technology | :heavy_check_mark: |
+| <img src="./universities/logos/U-452.svg" width="32" height="32"> | U-452 |  Eindhoven University of Technology | :heavy_check_mark: |
+| <img src="./universities/logos/U-573.svg" width="32" height="32"> | U-573 |  Friedrich-Alexander-University Erlangen-Nuremberg | :heavy_check_mark: |
+| <img src="./universities/logos/U-851.svg" width="32" height="32"> | U-851 |  Jacobs University | :heavy_check_mark: |
+| <img src="./universities/logos/U-980.svg" width="32" height="32"> | U-980 |  Kaunas University of Technology | :heavy_check_mark: |
+| <img src="./universities/logos/U-1039.svg" width="32" height="32"> | U-1039 |  KTH - Royal Institute of Technology | :heavy_check_mark: |
+| <img src="./universities/logos/U-1088.svg" width="32" height="32"> | U-1088 |  Leiden University | :heavy_check_mark: |
+| <img src="./universities/logos/U-1097.svg" width="32" height="32"> | U-1097 |  Linköping University | :heavy_check_mark: |
+| <img src="./universities/logos/U-1112.svg" width="32" height="32"> | U-1112 |  Lund University | :heavy_check_mark: |
+| <img src="./universities/logos/U-1154.svg" width="32" height="32"> | U-1154 |  Universität zu Lübeck | :heavy_check_mark: |
+| <img src="./universities/logos/U-1362.svg" width="32" height="32"> | U-1362 |  Norwegian University of Science and Technology | :heavy_check_mark: |
+| <img src="./universities/logos/U-1534.svg" width="32" height="32"> | U-1534 |  Rijksuniversiteit Groningen | :heavy_check_mark: |
+| <img src="./universities/logos/U-1917.svg" width="32" height="32"> | U-1917 |  Technische Universität München | :heavy_check_mark: |
+| <img src="./universities/logos/U-2061.svg" width="32" height="32"> | U-2061 |  Umeå University | :heavy_check_mark: |
+| <img src="./universities/logos/U-2267.svg" width="32" height="32"> | U-2267 |  Saarland University | :heavy_check_mark: |
+| <img src="./universities/logos/U-2272.svg" width="32" height="32"> | U-2272 |  Karlsruhe Institute of Technology (KIT) | :heavy_check_mark: |
+| <img src="./universities/logos/U-2274.svg" width="32" height="32"> | U-2274 |  Universität Rostock | :heavy_check_mark: |
+| <img src="./universities/logos/U-2275.svg" width="32" height="32"> | U-2275 |  Universität Ulm | :heavy_check_mark: |
+| <img src="./universities/logos/U-2284.svg" width="32" height="32"> | U-2284 |  Universiteit van Amsterdam | :heavy_check_mark: |
+| <img src="./universities/logos/U-2320.svg" width="32" height="32"> | U-2320 |  University of Bergen | :heavy_check_mark: |
+| <img src="./universities/logos/U-2343.svg" width="32" height="32"> | U-2343 |  University of Cambridge | :heavy_check_mark: |
+| <img src="./universities/logos/U-2357.svg" width="32" height="32"> | U-2357 |  University of Copenhagen | :heavy_check_mark: |
+| <img src="./universities/logos/U-2467.svg" width="32" height="32"> | U-2467 |  University of Oslo | :heavy_check_mark: |
+| <img src="./universities/logos/U-2526.svg" width="32" height="32"> | U-2526 |  University of Tartu | :heavy_check_mark: |
+| <img src="./universities/logos/U-2625.svg" width="32" height="32"> | U-2625 |  Utrecht University | :heavy_check_mark: |
+| <img src="./universities/logos/U-2643.svg" width="32" height="32"> | U-2643 |  Vilnius University | :heavy_check_mark: |
+| <img src="./universities/logos/U-2664.svg" width="32" height="32"> | U-2664 |  Vrije Universiteit | :heavy_check_mark: |
+| <img src="./universities/logos/U-3330.svg" width="32" height="32"> | U-3330 |  University of Helsinki | :heavy_check_mark: |
+| <img src="./universities/logos/U-3397.svg" width="32" height="32"> | U-3397 |  Chalmers University of Technology | :heavy_check_mark: |
+| <img src="./universities/logos/U-3403.svg" width="32" height="32"> | U-3403 |  Reykjavik University | :heavy_check_mark: |
+| <img src="./universities/logos/U-3546.svg" width="32" height="32"> | U-3546 |  Ghent University | :heavy_check_mark: |
+| <img src="./universities/logos/U-3620.svg" width="32" height="32"> | U-3620 |  University of Oxford | :heavy_check_mark: |
+| <img src="./universities/logos/U-3678.svg" width="32" height="32"> | U-3678 |  Imperial College London | :heavy_check_mark: |
+| <img src="./universities/logos/U-3749.svg" width="32" height="32"> | U-3749 |  University of Nottingham | :heavy_check_mark: |
+| <img src="./universities/logos/U-3758.svg" width="32" height="32"> | U-3758 |  King's College London | :heavy_check_mark: |
+| <img src="./universities/logos/U-3787.svg" width="32" height="32"> | U-3787 |  RWTH Aachen University | :heavy_check_mark: |
+| <img src="./universities/logos/U-4278.svg" width="32" height="32"> | U-4278 |  Technical University of Denmark | :heavy_check_mark: |
+| <img src="./universities/logos/U-4786.svg" width="32" height="32"> | U-4786 |  Aalto University | :heavy_check_mark: |
+| <img src="./universities/logos/U-5737.svg" width="32" height="32"> | U-5737 |  University of Manchester | :heavy_check_mark: |
+| <img src="./universities/logos/U-5784.svg" width="32" height="32"> | U-5784 |  University of Edinburgh | :heavy_check_mark: |
+| <img src="./universities/logos/U-6026.svg" width="32" height="32"> | U-6026 |  Molde University College | :heavy_check_mark: |
+| <img src="./universities/logos/U-6557.svg" width="32" height="32"> | U-6557 |  Frankfurt University of Applied Sciences | :heavy_check_mark: |
+| <img src="./universities/logos/U-6859.svg" width="32" height="32"> | U-6859 |  University of Southampton | :heavy_check_mark: |
+| <img src="./universities/logos/U-6864.svg" width="32" height="32"> | U-6864 |  IT University of Copenhagen | :heavy_check_mark: |
 | <img src="./universities/logos/U-6175.svg" width="32" height="32"> | U-6175 |  University of Warwick | :heavy_check_mark: |
-| <img src="./universities/logos/U-6253.svg" width="32" height="32"> | U-6253 |  University College London | :heavy_check_mark: |
-| <img src="./universities/logos/U-7250.svg" width="32" height="32"> | U-7250 |  Radboud University | :heavy_check_mark: |
-| <img src="./universities/logos/U-18628.svg" width="32" height="32"> | U-18628 |  Frankfurt am Main University of Applied Sciences | :heavy_check_mark: |
-| <img src="./universities/logos/U-18717.svg" width="32" height="32"> | U-18717 |  Universitaet des Saarlandes | :heavy_check_mark: |
-| <img src="./universities/logos/U-18720.svg" width="32" height="32"> | U-18720 |  University of Bergen | :heavy_check_mark: |
-| <img src="./universities/logos/U-19555.svg" width="32" height="32"> | U-19555 |  Université Catholique de Louvain | :heavy_check_mark: |
+| <img src="./universities/logos/U-7264.svg" width="32" height="32"> | U-7264 |  University of Göttingen | :heavy_check_mark: |
+| <img src="./universities/logos/U-7464.svg" width="32" height="32"> | U-7464 |  Brunel University London | :heavy_check_mark: |
+| <img src="./universities/logos/U-7477.svg" width="32" height="32"> | U-7477 |  Vilnius Gediminas Technical University | :heavy_check_mark: |
+| <img src="./universities/logos/U-7887.svg" width="32" height="32"> | U-7887 |  University of Iceland | :heavy_check_mark: |
+| <img src="./universities/logos/U-7950.svg" width="32" height="32"> | U-7950 |  University of Birmingham | :heavy_check_mark: |
+| <img src="./universities/logos/U-8002.svg" width="32" height="32"> | U-8002 |  Radboud University | :heavy_check_mark: |
+| <img src="./universities/logos/U-8170.svg" width="32" height="32"> | U-8170 |  Hasso Plattner Institute | :heavy_check_mark: |
+| <img src="./universities/logos/U-8311.svg" width="32" height="32"> | U-8311 |  Université de Mons | :heavy_check_mark: |
+| <img src="./universities/logos/U-9858.svg" width="32" height="32"> | U-9858 |  Université Catholique de Louvain | :heavy_check_mark: |
+| <img src="./universities/logos/U-11048.svg" width="32" height="32"> | U-11048 |  Tallinn University of Technology | :heavy_check_mark: |
+| <img src="./universities/logos/U-13859.svg" width="32" height="32"> | U-13859 |  University of Luxembourg | :heavy_check_mark: |
+| <img src="./universities/logos/U-14277.svg" width="32" height="32"> | U-14277 |  Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt | :heavy_check_mark: |
 
 ### Companies
 
