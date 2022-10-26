@@ -129,6 +129,8 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./companies/logos/C-16.svg" width="32" height="32"> | C-16 |  Prodrive Technologies | :heavy_check_mark: |
 | <img src="./companies/logos/C-17.svg" width="32" height="32"> | C-17 |  Quintiq | :heavy_check_mark: |
 | <img src="./companies/logos/C-18.svg" width="32" height="32"> | C-18 |  OVSoftware | :heavy_check_mark: |
+| <img src="./companies/logos/C-19.svg" width="32" height="32"> | C-19 |  Jane Street Capital | :heavy_check_mark: |
+| <img src="./companies/logos/C-20.svg" width="32" height="32"> | C-20 |  Fox-IT | :heavy_check_mark: |
 
 ### Studies
 

@@ -94,5 +94,17 @@
     "name": "OVSoftware",
     "formal_name": "OVSoftware",
     "country": "NLD"
+  },
+  {
+    "id": "C-19",
+    "name": "Jane Street",
+    "formal_name": "Jane Street Capital",
+    "country": "NLD"
+  },
+  {
+    "id": "C-20",
+    "name": "Fox-IT",
+    "formal_name": "Fox-IT",
+    "country": "NLD"
   }
 ]
