@@ -54,7 +54,6 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./universities/logos/U-367.svg" width="32" height="32"> | U-367 |  Delft University of Technology | :heavy_check_mark: |
 | <img src="./universities/logos/U-452.svg" width="32" height="32"> | U-452 |  Eindhoven University of Technology | :heavy_check_mark: |
 | <img src="./universities/logos/U-573.svg" width="32" height="32"> | U-573 |  Friedrich-Alexander-University Erlangen-Nuremberg | :heavy_check_mark: |
-| <img src="./universities/logos/U-851.svg" width="32" height="32"> | U-851 |  Jacobs University | :heavy_check_mark: |
 | <img src="./universities/logos/U-980.svg" width="32" height="32"> | U-980 |  Kaunas University of Technology | :heavy_check_mark: |
 | <img src="./universities/logos/U-1039.svg" width="32" height="32"> | U-1039 |  KTH - Royal Institute of Technology | :heavy_check_mark: |
 | <img src="./universities/logos/U-1088.svg" width="32" height="32"> | U-1088 |  Leiden University | :heavy_check_mark: |
@@ -108,6 +107,9 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./universities/logos/U-11048.svg" width="32" height="32"> | U-11048 |  Tallinn University of Technology | :x: |
 | <img src="./universities/logos/U-13859.svg" width="32" height="32"> | U-13859 |  University of Luxembourg | :heavy_check_mark: |
 | <img src="./universities/logos/U-14277.svg" width="32" height="32"> | U-14277 |  Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt | :heavy_check_mark: |
+| <img src="./universities/logos/U-18106.svg" width="32" height="32"> | U-18106 |  Jacobs University in Bremen | :heavy_check_mark: |
+| <img src="./universities/logos/U-18633.svg" width="32" height="32"> | U-18633 |  University of Augsburg | :heavy_check_mark: |
+| <img src="./universities/logos/U-8102.svg" width="32" height="32"> | U-8102 |  University of Passau | :heavy_check_mark: |
 
 ### Companies
 

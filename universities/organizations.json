@@ -358,5 +358,23 @@
     "name": "FHWS",
     "formal_name": "Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt",
       "country": "DEU"
+  },
+  {
+    "id": "U-18106",
+    "name": "Jacobs U",
+    "formal_name": "Jacobs University in Bremen",
+    "country": "DEU"
+  },
+  {
+    "id": "U-18633",
+    "name": "Uni A",
+    "formal_name": "University of Augsburg",
+    "country": "DEU"
+  },
+  {
+    "id": "U-8102",
+    "name": "",
+    "formal_name": "University of Passau",
+    "country": "DEU"
   }
 ]
