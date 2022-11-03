@@ -288,6 +288,18 @@
     "country": "GBR"
   },
   {
+    "id": "U-6940",
+    "name": "Glasgow",
+    "formal_name": "University of Glasgow",
+    "country": "GBR"
+  },
+  {
+    "id": "U-7019",
+    "name": "HS Leiden",
+    "formal_name": "Hogeschool Leiden",
+    "country": "GBR"
+  },
+  {
     "id": "U-7264",
     "name": "University of Göttin",
     "formal_name": "University of Göttingen",
@@ -334,6 +346,12 @@
     "name": "UMONS",
     "formal_name": "Université de Mons",
     "country": "BEL"
+  },
+  {
+    "id": "U-8317",
+    "name": "Bristol",
+    "formal_name": "University of Bristol",
+    "country": "GBR"
   },
   {
     "id": "U-9858",
