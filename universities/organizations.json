@@ -36,12 +36,6 @@
     "country": "DEU"
   },
   {
-    "id": "U-851",
-    "name": "Jacobs U",
-    "formal_name": "Jacobs University",
-    "country": "DEU"
-  },
-  {
     "id": "U-980",
     "name": "KTU",
     "formal_name": "Kaunas University of Technology",
@@ -110,7 +104,7 @@
   {
     "id": "U-2272",
     "name": "KIT",
-    "formal_name": "Karlsruhe Institute of Technology (KIT)",
+    "formal_name": "Karlsruhe Institute of Technology",
     "country": "DEU"
   },
   {
@@ -246,7 +240,7 @@
     "country": "FIN"
   },
   {
-    "id": "U-5737",
+    "id": "U-5541",
     "name": "Bath",
     "formal_name": "University of Bath",
     "country": "GBR"
@@ -276,6 +270,12 @@
     "country": "DEU"
   },
   {
+    "id": "U-6638",
+    "name": "GUTECH",
+    "formal_name": "German University of Technology in Oman",
+    "country": "OMN"
+  },
+  {
     "id": "U-6859",
     "name": "Southampton",
     "formal_name": "University of Southampton",
@@ -303,7 +303,7 @@
     "id": "U-7019",
     "name": "HS Leiden",
     "formal_name": "Hogeschool Leiden",
-    "country": "GBR"
+    "country": "NLD"
   },
   {
     "id": "U-7264",
@@ -331,7 +331,7 @@
   },
   {
     "id": "U-7950",
-    "name": "",
+    "name": "Birmingham",
     "formal_name": "University of Birmingham",
     "country": "GBR"
   },
@@ -340,6 +340,12 @@
     "name": "Radboud",
     "formal_name": "Radboud University",
     "country": "NLD"
+  },
+  {
+    "id": "U-8102",
+    "name": "",
+    "formal_name": "University of Passau",
+    "country": "DEU"
   },
   {
     "id": "U-8170",
@@ -366,7 +372,7 @@
     "country": "BEL"
   },
   {
-    "id": "U-11048",
+    "id": "U-11054",
     "name": "TalTech",
     "formal_name": "Tallinn University of Technology",
     "country": "EST"
@@ -381,7 +387,7 @@
     "id": "U-14277",
     "name": "FHWS",
     "formal_name": "Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt",
-      "country": "DEU"
+    "country": "DEU"
   },
   {
     "id": "U-18106",
@@ -393,12 +399,6 @@
     "id": "U-18633",
     "name": "Uni A",
     "formal_name": "University of Augsburg",
-    "country": "DEU"
-  },
-  {
-    "id": "U-8102",
-    "name": "",
-    "formal_name": "University of Passau",
     "country": "DEU"
   }
 ]

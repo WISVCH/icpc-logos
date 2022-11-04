@@ -65,7 +65,7 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./universities/logos/U-1917.svg" width="32" height="32"> | U-1917 |  Technische Universität München | :heavy_check_mark: |
 | <img src="./universities/logos/U-2061.svg" width="32" height="32"> | U-2061 |  Umeå University | :heavy_check_mark: |
 | <img src="./universities/logos/U-2267.svg" width="32" height="32"> | U-2267 |  Saarland University | :heavy_check_mark: |
-| <img src="./universities/logos/U-2272.svg" width="32" height="32"> | U-2272 |  Karlsruhe Institute of Technology (KIT) | :heavy_check_mark: |
+| <img src="./universities/logos/U-2272.svg" width="32" height="32"> | U-2272 |  Karlsruhe Institute of Technology | :heavy_check_mark: |
 | <img src="./universities/logos/U-2274.svg" width="32" height="32"> | U-2274 |  Universität Rostock | :heavy_check_mark: |
 | <img src="./universities/logos/U-2275.svg" width="32" height="32"> | U-2275 |  Universität Ulm | :heavy_check_mark: |
 | <img src="./universities/logos/U-2284.svg" width="32" height="32"> | U-2284 |  Universiteit van Amsterdam | :heavy_check_mark: |
@@ -88,28 +88,33 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./universities/logos/U-3787.svg" width="32" height="32"> | U-3787 |  RWTH Aachen University | :heavy_check_mark: |
 | <img src="./universities/logos/U-4278.svg" width="32" height="32"> | U-4278 |  Technical University of Denmark | :heavy_check_mark: |
 | <img src="./universities/logos/U-4786.svg" width="32" height="32"> | U-4786 |  Aalto University | :heavy_check_mark: |
+| <img src="./universities/logos/U-5541.svg" width="32" height="32"> | U-5541 |  University of Bath | :heavy_check_mark: |
 | <img src="./universities/logos/U-5737.svg" width="32" height="32"> | U-5737 |  University of Manchester | :heavy_check_mark: |
 | <img src="./universities/logos/U-5784.svg" width="32" height="32"> | U-5784 |  University of Edinburgh | :heavy_check_mark: |
 | <img src="./universities/logos/U-6026.svg" width="32" height="32"> | U-6026 |  Molde University College | :heavy_check_mark: |
 | <img src="./universities/logos/U-6557.svg" width="32" height="32"> | U-6557 |  Frankfurt University of Applied Sciences | :heavy_check_mark: |
+| <img src="./universities/logos/U-6638.svg" width="32" height="32"> | U-6638 |  German University of Technology in Oman | :heavy_check_mark: |
 | <img src="./universities/logos/U-6859.svg" width="32" height="32"> | U-6859 |  University of Southampton | :heavy_check_mark: |
 | <img src="./universities/logos/U-6864.svg" width="32" height="32"> | U-6864 |  IT University of Copenhagen | :heavy_check_mark: |
-| <img src="./universities/logos/U-6175.svg" width="32" height="32"> | U-6175 |  University of Warwick | :heavy_check_mark: |
-| <img src="./universities/logos/U-7264.svg" width="32" height="32"> | U-7264 |  University of Göttingen | :x: |
+| <img src="./universities/logos/U-6929.svg" width="32" height="32"> | U-6929 |  University of Warwick | :heavy_check_mark: |
+| <img src="./universities/logos/U-6940.svg" width="32" height="32"> | U-6940 |  University of Glasgow | :heavy_check_mark: |
+| <img src="./universities/logos/U-7019.svg" width="32" height="32"> | U-7019 |  Hogeschool Leiden | :heavy_check_mark: |
+| <img src="./universities/logos/U-7264.svg" width="32" height="32"> | U-7264 |  University of Göttingen | :heavy_check_mark: |
 | <img src="./universities/logos/U-7464.svg" width="32" height="32"> | U-7464 |  Brunel University London | :heavy_check_mark: |
 | <img src="./universities/logos/U-7477.svg" width="32" height="32"> | U-7477 |  Vilnius Gediminas Technical University | :heavy_check_mark: |
 | <img src="./universities/logos/U-7887.svg" width="32" height="32"> | U-7887 |  University of Iceland | :heavy_check_mark: |
-| <img src="./universities/logos/U-7950.svg" width="32" height="32"> | U-7950 |  University of Birmingham | :x: |
+| <img src="./universities/logos/U-7950.svg" width="32" height="32"> | U-7950 |  University of Birmingham | :heavy_check_mark: |
 | <img src="./universities/logos/U-8002.svg" width="32" height="32"> | U-8002 |  Radboud University | :heavy_check_mark: |
+| <img src="./universities/logos/U-8102.svg" width="32" height="32"> | U-8102 |  University of Passau | :heavy_check_mark: |
 | <img src="./universities/logos/U-8170.svg" width="32" height="32"> | U-8170 |  Hasso Plattner Institute | :heavy_check_mark: |
 | <img src="./universities/logos/U-8311.svg" width="32" height="32"> | U-8311 |  Université de Mons | :heavy_check_mark: |
+| <img src="./universities/logos/U-8317.svg" width="32" height="32"> | U-8317 |  University of Bristol | :heavy_check_mark: |
 | <img src="./universities/logos/U-9858.svg" width="32" height="32"> | U-9858 |  Université Catholique de Louvain | :heavy_check_mark: |
-| <img src="./universities/logos/U-11048.svg" width="32" height="32"> | U-11048 |  Tallinn University of Technology | :x: |
+| <img src="./universities/logos/U-11054.svg" width="32" height="32"> | U-11054 |  Tallinn University of Technology | :heavy_check_mark: |
 | <img src="./universities/logos/U-13859.svg" width="32" height="32"> | U-13859 |  University of Luxembourg | :heavy_check_mark: |
 | <img src="./universities/logos/U-14277.svg" width="32" height="32"> | U-14277 |  Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt | :heavy_check_mark: |
 | <img src="./universities/logos/U-18106.svg" width="32" height="32"> | U-18106 |  Jacobs University in Bremen | :heavy_check_mark: |
 | <img src="./universities/logos/U-18633.svg" width="32" height="32"> | U-18633 |  University of Augsburg | :heavy_check_mark: |
-| <img src="./universities/logos/U-8102.svg" width="32" height="32"> | U-8102 |  University of Passau | :heavy_check_mark: |
 
 ### Companies
 
@@ -127,7 +132,7 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./companies/logos/C-12.svg" width="32" height="32"> | C-12 |  OrangeMason B.V. | :heavy_check_mark: |
 | <img src="./companies/logos/C-13.svg" width="32" height="32"> | C-13 |  Picnic | :heavy_check_mark: |
 | <img src="./companies/logos/C-14.svg" width="32" height="32"> | C-14 |  ING | :heavy_check_mark: |
-| <img src="./companies/logos/C-15.svg" width="32" height="32"> | C-15 |  Flow Traders | :heavy_check_mark: |
+| <img src="./companies/logos/C-15.svg" width="32" height="32"> | C-15 |  Flow Traders | :question: |
 | <img src="./companies/logos/C-16.svg" width="32" height="32"> | C-16 |  Prodrive Technologies | :heavy_check_mark: |
 | <img src="./companies/logos/C-17.svg" width="32" height="32"> | C-17 |  Quintiq | :heavy_check_mark: |
 | <img src="./companies/logos/C-18.svg" width="32" height="32"> | C-18 |  OVSoftware | :heavy_check_mark: |
