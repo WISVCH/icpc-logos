@@ -247,6 +247,12 @@
   },
   {
     "id": "U-5737",
+    "name": "Bath",
+    "formal_name": "University of Bath",
+    "country": "GBR"
+  },
+  {
+    "id": "U-5737",
     "name": "Manchester",
     "formal_name": "University of Manchester",
     "country": "GBR"
