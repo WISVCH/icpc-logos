@@ -46,8 +46,8 @@ For DOMJudge use the `background_64.zip`.
 
 ### Universities
 
-| Logo | ICPC ID | Name | Status |
-|---|---|---|---|
+| Logo | ICPC ID | Name | Status             |
+|---|---|---|--------------------|
 | <img src="./universities/logos/U-7.svg" width="32" height="32"> | U-7 |  Aarhus University | :heavy_check_mark: |
 | <img src="./universities/logos/U-290.svg" width="32" height="32"> | U-290 |  Christian-Albrechts-Universitaet zu Kiel | :heavy_check_mark: |
 | <img src="./universities/logos/U-362.svg" width="32" height="32"> | U-362 |  Darmstadt University of Technology | :heavy_check_mark: |
@@ -115,6 +115,7 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./universities/logos/U-14277.svg" width="32" height="32"> | U-14277 |  Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt | :heavy_check_mark: |
 | <img src="./universities/logos/U-18106.svg" width="32" height="32"> | U-18106 |  Jacobs University in Bremen | :heavy_check_mark: |
 | <img src="./universities/logos/U-18633.svg" width="32" height="32"> | U-18633 |  University of Augsburg | :heavy_check_mark: |
+| <img src="./universities/logos/U-20052.svg" width="32" height="32"> | U-20052 |  Heinrich-Heine-Universität Düsseldorf | :x:                |
 
 ### Companies
 

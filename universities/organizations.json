@@ -400,5 +400,11 @@
     "name": "Uni A",
     "formal_name": "University of Augsburg",
     "country": "DEU"
+  },
+  {
+    "id": "U-20052",
+    "name": "HHU Düsseldorf",
+    "formal_name": "Heinrich-Heine-Universität Düsseldorf",
+    "country": "DEU"
   }
 ]
