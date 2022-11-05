@@ -102,6 +102,11 @@
   {
     "id": "C-23",
     "name": "JetBrains",
-      "formal_name": "JetBrains"
+    "formal_name": "JetBrains"
+  },
+  {
+    "id": "C-24",
+    "name": "ICPC",
+    "formal_name": "International Collegiate Programming Contest"
   }
 ]
