@@ -126,19 +126,22 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./companies/logos/C-4.svg" width="32" height="32"> | C-4 |  Booking.com | :heavy_check_mark: |
 | <img src="./companies/logos/C-5.svg" width="32" height="32"> | C-5 |  Centrum Wiskunde & Informatica | :heavy_check_mark: |
 | <img src="./companies/logos/C-6.svg" width="32" height="32"> | C-6 |  Dassault Systèmes | :heavy_check_mark: |
-| <img src="./companies/logos/C-7.svg" width="32" height="32"> | C-7 |  IMC Trading B.V. | :question: |
+| <img src="./companies/logos/C-7.svg" width="32" height="32"> | C-7 |  IMC Trading B.V. | :heavy_check_mark: |
 | <img src="./companies/logos/C-8.svg" width="32" height="32"> | C-8 |  Ortec International B.V. | :heavy_check_mark: |
 | <img src="./companies/logos/C-10.svg" width="32" height="32"> | C-10 |  Sioux Technologies B.V. | :heavy_check_mark: |
 | <img src="./companies/logos/C-11.svg" width="32" height="32"> | C-11 |  bol.com | :heavy_check_mark: |
 | <img src="./companies/logos/C-12.svg" width="32" height="32"> | C-12 |  OrangeMason B.V. | :heavy_check_mark: |
 | <img src="./companies/logos/C-13.svg" width="32" height="32"> | C-13 |  Picnic | :heavy_check_mark: |
 | <img src="./companies/logos/C-14.svg" width="32" height="32"> | C-14 |  ING | :heavy_check_mark: |
-| <img src="./companies/logos/C-15.svg" width="32" height="32"> | C-15 |  Flow Traders | :question: |
+| <img src="./companies/logos/C-15.svg" width="32" height="32"> | C-15 |  Flow Traders | :heavy_check_mark: |
 | <img src="./companies/logos/C-16.svg" width="32" height="32"> | C-16 |  Prodrive Technologies | :heavy_check_mark: |
 | <img src="./companies/logos/C-17.svg" width="32" height="32"> | C-17 |  Quintiq | :heavy_check_mark: |
 | <img src="./companies/logos/C-18.svg" width="32" height="32"> | C-18 |  OVSoftware | :heavy_check_mark: |
 | <img src="./companies/logos/C-19.svg" width="32" height="32"> | C-19 |  Jane Street Capital | :heavy_check_mark: |
-| <img src="./companies/logos/C-20.svg" width="32" height="32"> | C-20 |  Fox-IT | :question: |
+| <img src="./companies/logos/C-20.svg" width="32" height="32"> | C-20 |  Fox-IT | :heavy_check_mark: |
+| <img src="./companies/logos/C-21.svg" width="32" height="32"> | C-21 |  Huawei | :heavy_check_mark: |
+| <img src="./companies/logos/C-22.svg" width="32" height="32"> | C-22 |  Netcompany | :heavy_check_mark: |
+| <img src="./companies/logos/C-23.svg" width="32" height="32"> | C-23 |  JetBrains | :heavy_check_mark: |
 
 ### Studies
 
