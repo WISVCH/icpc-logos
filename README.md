@@ -115,7 +115,7 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./universities/logos/U-14277.svg" width="32" height="32"> | U-14277 |  Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt | :heavy_check_mark: |
 | <img src="./universities/logos/U-18106.svg" width="32" height="32"> | U-18106 |  Jacobs University in Bremen | :heavy_check_mark: |
 | <img src="./universities/logos/U-18633.svg" width="32" height="32"> | U-18633 |  University of Augsburg | :heavy_check_mark: |
-| <img src="./universities/logos/U-20052.svg" width="32" height="32"> | U-20052 |  Heinrich-Heine-Universität Düsseldorf | :x:                |
+| <img src="./universities/logos/U-20052.svg" width="32" height="32"> | U-20052 |  Heinrich-Heine-Universität Düsseldorf | :heavy_check_mark:                |
 
 ### Companies
 
