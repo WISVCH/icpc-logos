@@ -2,109 +2,106 @@
   {
     "id": "C-2",
     "name": "ASML",
-    "formal_name": "ASML",
-    "country": "NLD"
+    "formal_name": "ASML"
   },
   {
     "id": "C-3",
     "name": "BetterBe",
-    "formal_name": "BetterBe B.V.",
-    "country": "NLD"
+    "formal_name": "BetterBe B.V."
   },
   {
     "id": "C-4",
     "name": "Booking.com",
-    "formal_name": "Booking.com",
-    "country": "NLD"
+    "formal_name": "Booking.com"
   },
   {
     "id": "C-5",
     "name": "CWI",
-    "formal_name": "Centrum Wiskunde & Informatica",
-    "country": "NLD"
+    "formal_name": "Centrum Wiskunde & Informatica"
   },
   {
     "id": "C-6",
     "name": "Dassault Systèmes",
-    "formal_name": "Dassault Systèmes",
-    "country": "FRA"
+    "formal_name": "Dassault Systèmes"
   },
   {
     "id": "C-7",
     "name": "IMC",
-    "formal_name": "IMC Trading B.V.",
-    "country": "NLD"
+    "formal_name": "IMC Trading B.V."
   },
   {
     "id": "C-8",
     "name": "Ortec",
-    "formal_name": "Ortec International B.V.",
-    "country": "NLD"
+    "formal_name": "Ortec International B.V."
   },
   {
     "id": "C-10",
     "name": "Sioux",
-    "formal_name": "Sioux Technologies B.V.",
-    "country": "NLD"
+    "formal_name": "Sioux Technologies B.V."
   },
   {
     "id": "C-11",
     "name": "bol.com",
-    "formal_name": "bol.com",
-    "country": "NLD"
+    "formal_name": "bol.com"
   },
   {
     "id": "C-12",
     "name": "OrangeMason",
-    "formal_name": "OrangeMason B.V.",
-    "country": "NLD"
+    "formal_name": "OrangeMason B.V."
   },
   {
     "id": "C-13",
     "name": "Picnic",
-    "formal_name": "Picnic",
-    "country": "NLD"
+    "formal_name": "Picnic"
   },
   {
     "id": "C-14",
     "name": "ING",
-    "formal_name": "ING",
-    "country": "NLD"
+    "formal_name": "ING"
   },
   {
     "id": "C-15",
     "name": "Flow Traders",
-    "formal_name": "Flow Traders",
-    "country": "NLD"
+    "formal_name": "Flow Traders"
   },
   {
     "id": "C-16",
     "name": "Prodrive Technologies",
-    "formal_name": "Prodrive Technologies",
-    "country": "NLD"
+    "formal_name": "Prodrive Technologies"
   },
   {
     "id": "C-17",
     "name": "Quintiq",
-    "formal_name": "Quintiq",
-    "country": "NLD"
+    "formal_name": "Quintiq"
   },
   {
     "id": "C-18",
     "name": "OVSoftware",
-    "formal_name": "OVSoftware",
-    "country": "NLD"
+    "formal_name": "OVSoftware"
   },
   {
     "id": "C-19",
     "name": "Jane Street",
-    "formal_name": "Jane Street Capital",
-    "country": "NLD"
+    "formal_name": "Jane Street Capital"
   },
   {
     "id": "C-20",
     "name": "Fox-IT",
-    "formal_name": "Fox-IT",
-    "country": "NLD"
+    "formal_name": "Fox-IT"
+  },
+  {
+    "id": "C-21",
+    "name": "Huawei",
+    "formal_name": "Huawei"
+  },
+  {
+    "id": "C-22",
+    "name": "Netcompany",
+    "formal_name": "Netcompany"
+  },
+  {
+    "id": "C-23",
+    "name": "JetBrains",
+      "formal_name": "JetBrains"
   }
 ]
