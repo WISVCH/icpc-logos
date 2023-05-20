@@ -67,3 +67,14 @@ for o in oragnizations:
     s += f"| {o['id']} |  {o['formal_name']} | :heavy_check_mark: |"
 
     print(s)
+
+
+print("\n### Others\n")
+
+print("| Logo | ID | Name | Status |\n|---|---|---|---|")
+
+with open('others/organizations.json', 'r') as f:
+    oragnizations = json.load(f)
+
+for o in oragnizations:
+    print(f"| <img src=\"./others/logos/{o['id']}.svg\" width=\"32\" height=\"32\"> | {o['id']} |  {o['formal_name']} | :heavy_check_mark: |")

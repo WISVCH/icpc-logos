@@ -34,6 +34,14 @@ For DOMJudge use the `background_64.zip`.
 - Test the export by running `./export.sh`.
   - Inkscape should be installed for this.
 
+### Company
+- Add a other logo by duplicating one of the existing logos in `others/logos`, and change the content of the logos group.
+- It is important the logos group still exists, and contains the logo.
+- Add the organization to `others/organizations.json`.
+- As `id`, use the next free id, starting with a `O-`.
+- Test the export by running `./export.sh`.
+- Inkscape should be installed for this.
+
 ## List of logos
 
 ### Legend
@@ -157,3 +165,11 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./studies/logos/NB.svg" width="16" height="16"> |   |   |   | S-7 |  Nanobiology | :heavy_check_mark: |
 | <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> |   |   | S-8 |  Computer Science & Engineering + Aerospace Engineering | :heavy_check_mark: |
 | <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AM.svg" width="16" height="16"> | <img src="./studies/logos/AP.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> | S-9 |  Computer Science & Engineering + Applied Mathematics + Applied Physics + Aerospace Engineering | :heavy_check_mark: |
+
+
+### Others
+
+| Logo | ID | Name | Status |
+|---|---|---|---|
+| <img src="./others/logos/O-1.svg" width="32" height="32"> | O-1 |  OBJECTION! | :heavy_check_mark: |
+| <img src="./others/logos/O-2.svg" width="32" height="32"> | O-2 |  The Wise Owl | :heavy_check_mark: |
