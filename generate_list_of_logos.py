@@ -36,7 +36,7 @@ for o in oragnizations:
 
 print("\n### Studies\n")
 
-print("| Icon 1 | Icon 2 | Icon 3 | ID | Name | Status |\n|---|---|---|---|---|---|")
+print("| Icon 1 | Icon 2 | Icon 3 | Icon 4 | ID | Name | Status |\n|---|---|---|---|---|---|---|")
 
 with open('studies/organizations.json', 'r') as f:
   oragnizations = json.load(f)
@@ -56,6 +56,11 @@ for o in oragnizations:
 
     if len(o["studies"]) >= 3:
         s += f"| <img src=\"./studies/logos/{o['studies'][2]}.svg\" width=\"16\" height=\"16\"> "
+    else:
+        s += f"|   "
+
+    if len(o["studies"]) >= 4:
+        s += f"| <img src=\"./studies/logos/{o['studies'][3]}.svg\" width=\"16\" height=\"16\"> "
     else:
         s += f"|   "
 

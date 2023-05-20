@@ -23,7 +23,7 @@ def move_center_to(figure: sg.FigureElement, x: int, y: int, scale: float=1.0, o
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument('studies', nargs='+', action=required_length(1,3))
+parser.add_argument('studies', nargs='+', action=required_length(1,4))
 parser.add_argument('-o', '--output', help='Output file name', default='stdout')
 
 try:
@@ -62,6 +62,19 @@ elif len(args.studies) == 3:
     logo.root.append(icon0.root)
     logo.root.append(icon1.root)
     logo.root.append(icon2.root)
+elif len(args.studies) == 4:
+    icon0 = svgs[0].getroot()
+    icon1 = svgs[1].getroot()
+    icon2 = svgs[2].getroot()
+    icon3 = svgs[3].getroot()
+    move_center_to(icon0, 75, 75, scale = 4.8)
+    move_center_to(icon1, 256-75, 75, scale = 4.8)
+    move_center_to(icon2, 75, 256-75, scale = 4.8)
+    move_center_to(icon3, 256-75, 256-75, scale = 4.8)
+    logo.root.append(icon0.root)
+    logo.root.append(icon1.root)
+    logo.root.append(icon2.root)
+    logo.root.append(icon3.root)
 
 if args.output == "stdout":
     with tempfile.NamedTemporaryFile() as fp:
