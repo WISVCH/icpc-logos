@@ -34,7 +34,7 @@ For DOMJudge use the `background_64.zip`.
 - Test the export by running `./export.sh`.
   - Inkscape should be installed for this.
 
-### Company
+### Other
 - Add a other logo by duplicating one of the existing logos in `others/logos`, and change the content of the logos group.
 - It is important the logos group still exists, and contains the logo.
 - Add the organization to `others/organizations.json`.
