@@ -15,24 +15,42 @@
     "id": "S-3",
     "name": "CSE+AM",
     "formal_name": "Computer Science & Engineering + Applied Mathematics",
-    "studies": ["CSE", "TW"]
+    "studies": ["CSE", "AM"]
   },
   {
     "id": "S-4",
     "name": "AM",
     "formal_name": "Applied Mathematics",
-    "studies": ["TW"]
+    "studies": ["AM"]
   },
   {
     "id": "S-5",
     "name": "AM+ME+AE",
     "formal_name": "Applied Mathematics + Mechanical Engineering + Aerospace Engineering",
-    "studies": ["TW", "WB", "AE"]
+    "studies": ["AM", "ME", "AE"]
   },
   {
     "id": "S-6",
     "name": "EE",
     "formal_name": "Electrical Engineering",
     "studies": ["EE"]
+  },
+  {
+    "id": "S-7",
+    "name": "NB",
+    "formal_name": "Nanobiology",
+    "studies": ["NB"]
+  },
+  {
+    "id": "S-8",
+    "name": "CSE+AE",
+    "formal_name": "Computer Science & Engineering + Aerospace Engineering",
+    "studies": ["CSE", "AE"]
+  },
+  {
+    "id": "S-9",
+    "name": "CSE+AM+AP+AE",
+    "formal_name": "Computer Science & Engineering + Applied Mathematics + Applied Physics + Aerospace Engineering",
+    "studies": ["CSE", "AM", "AP", "AE"]
   }
 ]

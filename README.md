@@ -146,11 +146,14 @@ For DOMJudge use the `background_64.zip`.
 
 ### Studies
 
-| Icon 1 | Icon 2 | Icon 3 | ID | Name | Status |
-|---|---|---|---|---|---|
-| <img src="./studies/logos/CSE.svg" width="16" height="16"> |   |   | S-1 |  Computer Science & Engineering | :heavy_check_mark: |
-| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/NB.svg" width="16" height="16"> |   | S-2 |  Computer Science & Engineering + Nanobiology | :heavy_check_mark: |
-| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/TW.svg" width="16" height="16"> |   | S-3 |  Computer Science & Engineering + Applied Mathematics | :heavy_check_mark: |
-| <img src="./studies/logos/TW.svg" width="16" height="16"> |   |   | S-4 |  Applied Mathematics | :heavy_check_mark: |
-| <img src="./studies/logos/TW.svg" width="16" height="16"> | <img src="./studies/logos/WB.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> | S-5 |  Applied Mathematics + Mechanical Engineering + Aerospace Engineering | :heavy_check_mark: |
-| <img src="./studies/logos/EE.svg" width="16" height="16"> |   |   | S-6 |  Electrical Engineering | :heavy_check_mark: |
+| Icon 1 | Icon 2 | Icon 3 | Icon 4 | ID | Name | Status |
+|---|---|---|---|---|---|---|
+| <img src="./studies/logos/CSE.svg" width="16" height="16"> |   |   |   | S-1 |  Computer Science & Engineering | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/NB.svg" width="16" height="16"> |   |   | S-2 |  Computer Science & Engineering + Nanobiology | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AM.svg" width="16" height="16"> |   |   | S-3 |  Computer Science & Engineering + Applied Mathematics | :heavy_check_mark: |
+| <img src="./studies/logos/AM.svg" width="16" height="16"> |   |   |   | S-4 |  Applied Mathematics | :heavy_check_mark: |
+| <img src="./studies/logos/AM.svg" width="16" height="16"> | <img src="./studies/logos/ME.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> |   | S-5 |  Applied Mathematics + Mechanical Engineering + Aerospace Engineering | :heavy_check_mark: |
+| <img src="./studies/logos/EE.svg" width="16" height="16"> |   |   |   | S-6 |  Electrical Engineering | :heavy_check_mark: |
+| <img src="./studies/logos/NB.svg" width="16" height="16"> |   |   |   | S-7 |  Nanobiology | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> |   |   | S-8 |  Computer Science & Engineering + Aerospace Engineering | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AM.svg" width="16" height="16"> | <img src="./studies/logos/AP.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> | S-9 |  Computer Science & Engineering + Applied Mathematics + Applied Physics + Aerospace Engineering | :heavy_check_mark: |
