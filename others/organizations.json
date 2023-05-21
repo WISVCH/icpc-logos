@@ -1,12 +1,12 @@
 [
   {
     "id": "O-1",
-    "name": "OBJECTION!",
+    "name": "OBJ",
     "formal_name": "OBJECTION!"
   },
   {
     "id": "O-2",
-    "name": "Owl",
+    "name": "OWL",
     "formal_name": "The Wise Owl"
   }
 ]

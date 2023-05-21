@@ -8,13 +8,13 @@
   {
     "id": "S-2",
     "name": "CSE+NB",
-    "formal_name": "Computer Science & Engineering + Nanobiology",
+    "formal_name": "Computer Science & Eng. + Nanobiology",
     "studies": ["CSE", "NB"]
   },
   {
     "id": "S-3",
     "name": "CSE+AM",
-    "formal_name": "Computer Science & Engineering + Applied Mathematics",
+    "formal_name": "Computer Science & Eng. + A. Mathematics",
     "studies": ["CSE", "AM"]
   },
   {
@@ -26,7 +26,7 @@
   {
     "id": "S-5",
     "name": "AM+ME+AE",
-    "formal_name": "Applied Mathematics + Mechanical Engineering + Aerospace Engineering",
+    "formal_name": "A. Mathematics + Mechanical Eng. + Aerospace Eng.",
     "studies": ["AM", "ME", "AE"]
   },
   {
@@ -44,13 +44,13 @@
   {
     "id": "S-8",
     "name": "CSE+AE",
-    "formal_name": "Computer Science & Engineering + Aerospace Engineering",
+    "formal_name": "Computer Science & Eng. + Aerospace Eng.",
     "studies": ["CSE", "AE"]
   },
   {
     "id": "S-9",
     "name": "CSE+AM+AP+AE",
-    "formal_name": "Computer Science & Engineering + Applied Mathematics + Applied Physics + Aerospace Engineering",
+    "formal_name": "CSE + A. Mathematics + A. Physics + Aerospace Eng.",
     "studies": ["CSE", "AM", "AP", "AE"]
   }
 ]
