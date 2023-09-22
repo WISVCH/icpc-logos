@@ -6,6 +6,12 @@
     "country": "DNK"
   },
   {
+    "id": "U-131",
+    "name": "UJ",
+    "formal_name": "Jagiellonian University in Krakow",
+    "country": "POL"
+  },
+  {
     "id": "U-290",
     "name": "CAU Kiel",
     "formal_name": "Christian-Albrechts-Universitaet zu Kiel",

@@ -57,6 +57,7 @@ For DOMJudge use the `background_64.zip`.
 | Logo | ICPC ID | Name | Status             |
 |---|---|---|--------------------|
 | <img src="./universities/logos/U-7.svg" width="32" height="32"> | U-7 |  Aarhus University | :heavy_check_mark: |
+| <img src="./universities/logos/U-131.svg" width="32" height="32"> | U-131 |  Jagiellonian University in Krakow | :heavy_check_mark: |
 | <img src="./universities/logos/U-290.svg" width="32" height="32"> | U-290 |  Christian-Albrechts-Universitaet zu Kiel | :heavy_check_mark: |
 | <img src="./universities/logos/U-362.svg" width="32" height="32"> | U-362 |  Darmstadt University of Technology | :heavy_check_mark: |
 | <img src="./universities/logos/U-367.svg" width="32" height="32"> | U-367 |  Delft University of Technology | :heavy_check_mark: |
