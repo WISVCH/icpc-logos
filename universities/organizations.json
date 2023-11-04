@@ -6,6 +6,12 @@
     "country": "DNK"
   },
   {
+    "id": "U-33",
+    "name": "Ulm U",
+    "formal_name": "Ulm University",
+    "country": "GER"
+  },
+  {
     "id": "U-131",
     "name": "UJ",
     "formal_name": "Jagiellonian University in Krakow",
@@ -126,10 +132,22 @@
     "country": "DEU"
   },
   {
+    "id": "U-2282",
+    "name": "Leiden University",
+    "formal_name": "Leiden University",
+    "country": "NLD"
+  },
+  {
     "id": "U-2284",
     "name": "UvA",
     "formal_name": "Universiteit van Amsterdam",
     "country": "NLD"
+  },
+  {
+    "id": "U-2292",
+    "name": "UCC",
+    "formal_name": "University College Cork",
+    "country": "IRL"
   },
   {
     "id": "U-2320",
@@ -156,9 +174,21 @@
     "country": "NOR"
   },
   {
+    "id": "U-2523",
+    "name": "COGS",
+    "formal_name": "University of Sussex",
+    "country": "GBR"
+  },
+  {
     "id": "U-2526",
     "name": "Tartu",
     "formal_name": "University of Tartu",
+    "country": "EST"
+  },
+  {
+    "id": "U-2561",
+    "name": "UTwente",
+    "formal_name": "University of Twente",
     "country": "EST"
   },
   {
@@ -240,6 +270,12 @@
     "country": "DNK"
   },
   {
+    "id": "U-4711",
+    "name": "JGU",
+    "formal_name": "Johannes Gutenberg Universität Mainz",
+    "country": "DEU"
+  },
+  {
     "id": "U-4786",
     "name": "Aalto U",
     "formal_name": "Aalto University",
@@ -276,6 +312,12 @@
     "country": "DEU"
   },
   {
+    "id": "U-6817",
+    "name": "UoL",
+    "formal_name": "University of Liverpool",
+    "country": "GBR"
+  },
+  {
     "id": "U-6638",
     "name": "GUTECH",
     "formal_name": "German University of Technology in Oman",
@@ -303,6 +345,12 @@
     "id": "U-6940",
     "name": "Glasgow",
     "formal_name": "University of Glasgow",
+    "country": "GBR"
+  },
+  {
+    "id": "U-7006",
+    "name": "UCL",
+    "formal_name": "University College London",
     "country": "GBR"
   },
   {
@@ -334,6 +382,12 @@
     "name": "UI",
     "formal_name": "University of Iceland",
     "country": "ISL"
+  },
+  {
+    "id": "U-7918",
+    "name": "St Andrews",
+    "formal_name": "University of St Andrews",
+    "country": "GBR"
   },
   {
     "id": "U-7950",
@@ -384,6 +438,12 @@
     "country": "EST"
   },
   {
+    "id": "U-11103",
+    "name": "KU Leuven",
+    "formal_name": "Katholieke Universiteit Leuven",
+    "country": "BEL"
+  },
+  {
     "id": "U-13859",
     "name": "Uni Lu",
     "formal_name": "University of Luxembourg",
@@ -411,6 +471,18 @@
     "id": "U-20052",
     "name": "HHU Düsseldorf",
     "formal_name": "Heinrich-Heine-Universität Düsseldorf",
+    "country": "DEU"
+  },
+  {
+    "id": "U-21966",
+    "name": "ARU",
+    "formal_name": "Anglia Ruskin University",
+    "country": "GBR"
+  },
+  {
+    "id": "U-21967",
+    "name": "CUB",
+    "formal_name": "Constructor University Bremen",
     "country": "DEU"
   }
 ]
