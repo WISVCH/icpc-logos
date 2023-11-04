@@ -54,9 +54,10 @@ For DOMJudge use the `background_64.zip`.
 
 ### Universities
 
-| Logo | ICPC ID | Name | Status             |
-|---|---|---|--------------------|
+| Logo | ICPC ID | Name | Status |
+|---|---|---|---|
 | <img src="./universities/logos/U-7.svg" width="32" height="32"> | U-7 |  Aarhus University | :heavy_check_mark: |
+| <img src="./universities/logos/U-33.svg" width="32" height="32"> | U-33 |  Ulm University | :heavy_check_mark: |
 | <img src="./universities/logos/U-131.svg" width="32" height="32"> | U-131 |  Jagiellonian University in Krakow | :heavy_check_mark: |
 | <img src="./universities/logos/U-290.svg" width="32" height="32"> | U-290 |  Christian-Albrechts-Universitaet zu Kiel | :heavy_check_mark: |
 | <img src="./universities/logos/U-362.svg" width="32" height="32"> | U-362 |  Darmstadt University of Technology | :heavy_check_mark: |
@@ -77,12 +78,16 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./universities/logos/U-2272.svg" width="32" height="32"> | U-2272 |  Karlsruhe Institute of Technology | :heavy_check_mark: |
 | <img src="./universities/logos/U-2274.svg" width="32" height="32"> | U-2274 |  Universität Rostock | :heavy_check_mark: |
 | <img src="./universities/logos/U-2275.svg" width="32" height="32"> | U-2275 |  Universität Ulm | :heavy_check_mark: |
+| <img src="./universities/logos/U-2282.svg" width="32" height="32"> | U-2282 |  Leiden University | :heavy_check_mark: |
 | <img src="./universities/logos/U-2284.svg" width="32" height="32"> | U-2284 |  Universiteit van Amsterdam | :heavy_check_mark: |
+| <img src="./universities/logos/U-2292.svg" width="32" height="32"> | U-2292 |  University College Cork | :heavy_check_mark: |
 | <img src="./universities/logos/U-2320.svg" width="32" height="32"> | U-2320 |  University of Bergen | :heavy_check_mark: |
 | <img src="./universities/logos/U-2343.svg" width="32" height="32"> | U-2343 |  University of Cambridge | :heavy_check_mark: |
 | <img src="./universities/logos/U-2357.svg" width="32" height="32"> | U-2357 |  University of Copenhagen | :heavy_check_mark: |
 | <img src="./universities/logos/U-2467.svg" width="32" height="32"> | U-2467 |  University of Oslo | :heavy_check_mark: |
+| <img src="./universities/logos/U-2523.svg" width="32" height="32"> | U-2523 |  University of Sussex | :heavy_check_mark: |
 | <img src="./universities/logos/U-2526.svg" width="32" height="32"> | U-2526 |  University of Tartu | :heavy_check_mark: |
+| <img src="./universities/logos/U-2561.svg" width="32" height="32"> | U-2561 |  University of Twente | :heavy_check_mark: |
 | <img src="./universities/logos/U-2625.svg" width="32" height="32"> | U-2625 |  Utrecht University | :heavy_check_mark: |
 | <img src="./universities/logos/U-2643.svg" width="32" height="32"> | U-2643 |  Vilnius University | :heavy_check_mark: |
 | <img src="./universities/logos/U-2664.svg" width="32" height="32"> | U-2664 |  Vrije Universiteit | :heavy_check_mark: |
@@ -96,22 +101,26 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./universities/logos/U-3758.svg" width="32" height="32"> | U-3758 |  King's College London | :heavy_check_mark: |
 | <img src="./universities/logos/U-3787.svg" width="32" height="32"> | U-3787 |  RWTH Aachen University | :heavy_check_mark: |
 | <img src="./universities/logos/U-4278.svg" width="32" height="32"> | U-4278 |  Technical University of Denmark | :heavy_check_mark: |
+| <img src="./universities/logos/U-4711.svg" width="32" height="32"> | U-4711 |  Johannes Gutenberg Universität Mainz | :heavy_check_mark: |
 | <img src="./universities/logos/U-4786.svg" width="32" height="32"> | U-4786 |  Aalto University | :heavy_check_mark: |
 | <img src="./universities/logos/U-5541.svg" width="32" height="32"> | U-5541 |  University of Bath | :heavy_check_mark: |
 | <img src="./universities/logos/U-5737.svg" width="32" height="32"> | U-5737 |  University of Manchester | :heavy_check_mark: |
 | <img src="./universities/logos/U-5784.svg" width="32" height="32"> | U-5784 |  University of Edinburgh | :heavy_check_mark: |
 | <img src="./universities/logos/U-6026.svg" width="32" height="32"> | U-6026 |  Molde University College | :heavy_check_mark: |
 | <img src="./universities/logos/U-6557.svg" width="32" height="32"> | U-6557 |  Frankfurt University of Applied Sciences | :heavy_check_mark: |
+| <img src="./universities/logos/U-6817.svg" width="32" height="32"> | U-6817 |  University of Liverpool | :heavy_check_mark: |
 | <img src="./universities/logos/U-6638.svg" width="32" height="32"> | U-6638 |  German University of Technology in Oman | :heavy_check_mark: |
 | <img src="./universities/logos/U-6859.svg" width="32" height="32"> | U-6859 |  University of Southampton | :heavy_check_mark: |
 | <img src="./universities/logos/U-6864.svg" width="32" height="32"> | U-6864 |  IT University of Copenhagen | :heavy_check_mark: |
 | <img src="./universities/logos/U-6929.svg" width="32" height="32"> | U-6929 |  University of Warwick | :heavy_check_mark: |
 | <img src="./universities/logos/U-6940.svg" width="32" height="32"> | U-6940 |  University of Glasgow | :heavy_check_mark: |
+| <img src="./universities/logos/U-7006.svg" width="32" height="32"> | U-7006 |  University College London | :heavy_check_mark: |
 | <img src="./universities/logos/U-7019.svg" width="32" height="32"> | U-7019 |  Hogeschool Leiden | :heavy_check_mark: |
 | <img src="./universities/logos/U-7264.svg" width="32" height="32"> | U-7264 |  University of Göttingen | :heavy_check_mark: |
 | <img src="./universities/logos/U-7464.svg" width="32" height="32"> | U-7464 |  Brunel University London | :heavy_check_mark: |
 | <img src="./universities/logos/U-7477.svg" width="32" height="32"> | U-7477 |  Vilnius Gediminas Technical University | :heavy_check_mark: |
 | <img src="./universities/logos/U-7887.svg" width="32" height="32"> | U-7887 |  University of Iceland | :heavy_check_mark: |
+| <img src="./universities/logos/U-7918.svg" width="32" height="32"> | U-7918 |  University of St Andrews | :heavy_check_mark: |
 | <img src="./universities/logos/U-7950.svg" width="32" height="32"> | U-7950 |  University of Birmingham | :heavy_check_mark: |
 | <img src="./universities/logos/U-8002.svg" width="32" height="32"> | U-8002 |  Radboud University | :heavy_check_mark: |
 | <img src="./universities/logos/U-8102.svg" width="32" height="32"> | U-8102 |  University of Passau | :heavy_check_mark: |
@@ -120,11 +129,14 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./universities/logos/U-8317.svg" width="32" height="32"> | U-8317 |  University of Bristol | :heavy_check_mark: |
 | <img src="./universities/logos/U-9858.svg" width="32" height="32"> | U-9858 |  Université Catholique de Louvain | :heavy_check_mark: |
 | <img src="./universities/logos/U-11054.svg" width="32" height="32"> | U-11054 |  Tallinn University of Technology | :heavy_check_mark: |
+| <img src="./universities/logos/U-11103.svg" width="32" height="32"> | U-11103 |  Katholieke Universiteit Leuven | :heavy_check_mark: |
 | <img src="./universities/logos/U-13859.svg" width="32" height="32"> | U-13859 |  University of Luxembourg | :heavy_check_mark: |
 | <img src="./universities/logos/U-14277.svg" width="32" height="32"> | U-14277 |  Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt | :heavy_check_mark: |
 | <img src="./universities/logos/U-18106.svg" width="32" height="32"> | U-18106 |  Jacobs University in Bremen | :heavy_check_mark: |
 | <img src="./universities/logos/U-18633.svg" width="32" height="32"> | U-18633 |  University of Augsburg | :heavy_check_mark: |
-| <img src="./universities/logos/U-20052.svg" width="32" height="32"> | U-20052 |  Heinrich-Heine-Universität Düsseldorf | :heavy_check_mark:                |
+| <img src="./universities/logos/U-20052.svg" width="32" height="32"> | U-20052 |  Heinrich-Heine-Universität Düsseldorf | :heavy_check_mark: |
+| <img src="./universities/logos/U-21966.svg" width="32" height="32"> | U-21966 |  Anglia Ruskin University | :heavy_check_mark: |
+| <img src="./universities/logos/U-21967.svg" width="32" height="32"> | U-21967 |  Constructor University Bremen | :heavy_check_mark: |
 
 ### Companies
 
@@ -158,15 +170,14 @@ For DOMJudge use the `background_64.zip`.
 | Icon 1 | Icon 2 | Icon 3 | Icon 4 | ID | Name | Status |
 |---|---|---|---|---|---|---|
 | <img src="./studies/logos/CSE.svg" width="16" height="16"> |   |   |   | S-1 |  Computer Science & Engineering | :heavy_check_mark: |
-| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/NB.svg" width="16" height="16"> |   |   | S-2 |  Computer Science & Engineering + Nanobiology | :heavy_check_mark: |
-| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AM.svg" width="16" height="16"> |   |   | S-3 |  Computer Science & Engineering + Applied Mathematics | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/NB.svg" width="16" height="16"> |   |   | S-2 |  Computer Science & Eng. + Nanobiology | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AM.svg" width="16" height="16"> |   |   | S-3 |  Computer Science & Eng. + A. Mathematics | :heavy_check_mark: |
 | <img src="./studies/logos/AM.svg" width="16" height="16"> |   |   |   | S-4 |  Applied Mathematics | :heavy_check_mark: |
-| <img src="./studies/logos/AM.svg" width="16" height="16"> | <img src="./studies/logos/ME.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> |   | S-5 |  Applied Mathematics + Mechanical Engineering + Aerospace Engineering | :heavy_check_mark: |
+| <img src="./studies/logos/AM.svg" width="16" height="16"> | <img src="./studies/logos/ME.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> |   | S-5 |  A. Mathematics + Mechanical Eng. + Aerospace Eng. | :heavy_check_mark: |
 | <img src="./studies/logos/EE.svg" width="16" height="16"> |   |   |   | S-6 |  Electrical Engineering | :heavy_check_mark: |
 | <img src="./studies/logos/NB.svg" width="16" height="16"> |   |   |   | S-7 |  Nanobiology | :heavy_check_mark: |
-| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> |   |   | S-8 |  Computer Science & Engineering + Aerospace Engineering | :heavy_check_mark: |
-| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AM.svg" width="16" height="16"> | <img src="./studies/logos/AP.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> | S-9 |  Computer Science & Engineering + Applied Mathematics + Applied Physics + Aerospace Engineering | :heavy_check_mark: |
-
+| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> |   |   | S-8 |  Computer Science & Eng. + Aerospace Eng. | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AM.svg" width="16" height="16"> | <img src="./studies/logos/AP.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> | S-9 |  CSE + A. Mathematics + A. Physics + Aerospace Eng. | :heavy_check_mark: |
 
 ### Others
 
