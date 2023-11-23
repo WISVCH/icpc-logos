@@ -189,7 +189,7 @@
     "id": "U-2561",
     "name": "UTwente",
     "formal_name": "University of Twente",
-    "country": "EST"
+    "country": "NLD"
   },
   {
     "id": "U-2625",
@@ -430,6 +430,12 @@
     "name": "UCLouvain",
     "formal_name": "Université Catholique de Louvain",
     "country": "BEL"
+  },
+  {
+    "id": "U-11048",
+    "name": "TalTech",
+    "formal_name": "Tallinn University of Technology",
+    "country": "EST"
   },
   {
     "id": "U-11054",
