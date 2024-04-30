@@ -52,5 +52,11 @@
     "name": "CSE+AM+AP+AE",
     "formal_name": "CSE + A. Mathematics + A. Physics + Aerospace Eng.",
     "studies": ["CSE", "AM", "AP", "AE"]
+  },
+  {
+    "id": "S-10",
+    "name": "CSE+AM+AP",
+    "formal_name": "CSE + A. Mathematics + A. Physics",
+    "studies": ["CSE", "AM", "AP"]
   }
 ]

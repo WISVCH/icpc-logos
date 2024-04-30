@@ -128,6 +128,7 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./universities/logos/U-8311.svg" width="32" height="32"> | U-8311 |  Université de Mons | :heavy_check_mark: |
 | <img src="./universities/logos/U-8317.svg" width="32" height="32"> | U-8317 |  University of Bristol | :heavy_check_mark: |
 | <img src="./universities/logos/U-9858.svg" width="32" height="32"> | U-9858 |  Université Catholique de Louvain | :heavy_check_mark: |
+| <img src="./universities/logos/U-11048.svg" width="32" height="32"> | U-11048 |  Tallinn University of Technology | :heavy_check_mark: |
 | <img src="./universities/logos/U-11054.svg" width="32" height="32"> | U-11054 |  Tallinn University of Technology | :heavy_check_mark: |
 | <img src="./universities/logos/U-11103.svg" width="32" height="32"> | U-11103 |  Katholieke Universiteit Leuven | :heavy_check_mark: |
 | <img src="./universities/logos/U-13859.svg" width="32" height="32"> | U-13859 |  University of Luxembourg | :heavy_check_mark: |
@@ -178,6 +179,7 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./studies/logos/NB.svg" width="16" height="16"> |   |   |   | S-7 |  Nanobiology | :heavy_check_mark: |
 | <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> |   |   | S-8 |  Computer Science & Eng. + Aerospace Eng. | :heavy_check_mark: |
 | <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AM.svg" width="16" height="16"> | <img src="./studies/logos/AP.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> | S-9 |  CSE + A. Mathematics + A. Physics + Aerospace Eng. | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AM.svg" width="16" height="16"> | <img src="./studies/logos/AP.svg" width="16" height="16"> |   | S-10 |  CSE + A. Mathematics + A. Physics | :heavy_check_mark: |
 
 ### Others
 
