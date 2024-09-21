@@ -187,3 +187,4 @@ For DOMJudge use the `background_64.zip`.
 |---|---|---|---|
 | <img src="./others/logos/O-1.svg" width="32" height="32"> | O-1 |  OBJECTION! | :heavy_check_mark: |
 | <img src="./others/logos/O-2.svg" width="32" height="32"> | O-2 |  The Wise Owl | :heavy_check_mark: |
+| <img src="./others/logos/O-3.svg" width="32" height="32"> | O-3 |  The Wise Owl | :heavy_check_mark: |
