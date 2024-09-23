@@ -43,9 +43,9 @@ jobs:
           sudo apt update; sudo apt install cutycapt xvfb httpie -y
           mkdir $afftmp
           cp ${{ github.workspace }}/out/background_64/* $afftmp
-          docker-compose -f .github/workflows/domjudge/docker-compose.yml up -d mariadb
+          docker compose -f .github/workflows/domjudge/docker-compose.yml up -d mariadb
           sleep 30s
-          docker-compose -f .github/workflows/domjudge/docker-compose.yml up -d domjudge
+          docker compose -f .github/workflows/domjudge/docker-compose.yml up -d domjudge
           sleep 1m
           ADMINPASS=$(docker exec -i domjudge_domjudge_1 cat /opt/domjudge/domserver/etc/initial_admin_password.secret)
           http -a admin:$ADMINPASS --check-status -b -f POST "http://localhost:12345/api/users/organizations" json@out/organizations.json
