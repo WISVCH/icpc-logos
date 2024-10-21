@@ -68,7 +68,7 @@ jobs:
          cd ${{ github.workspace }}/out
          rm contest-package.zip
          cd contest-package
-         zip -r ../contest-package.zip contest-package
+         zip -r ../contest-package.zip *
          cd ${{ github.workspace }}
       - uses: actions/upload-artifact@v4
         if: github.ref != 'refs/heads/main'
