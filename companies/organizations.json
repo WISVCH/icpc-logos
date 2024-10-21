@@ -108,5 +108,10 @@
     "id": "C-24",
     "name": "ICPC",
     "formal_name": "International Collegiate Programming Contest"
+  },
+  {
+    "id": "C-25",
+    "name": "Jump Trading",
+    "formal_name": "Jump Trading"
   }
 ]
