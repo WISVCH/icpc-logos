@@ -165,6 +165,7 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./companies/logos/C-22.svg" width="32" height="32"> | C-22 |  Netcompany | :heavy_check_mark: |
 | <img src="./companies/logos/C-23.svg" width="32" height="32"> | C-23 |  JetBrains | :heavy_check_mark: |
 | <img src="./companies/logos/C-24.svg" width="32" height="32"> | C-24 |  International Collegiate Programming Contest | :heavy_check_mark: |
+| <img src="./companies/logos/C-25.svg" width="32" height="32"> | C-25 |  Jump Trading | :heavy_check_mark: |
 
 ### Studies
 
