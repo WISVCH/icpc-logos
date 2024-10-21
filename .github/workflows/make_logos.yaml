@@ -17,7 +17,7 @@ jobs:
       - run: inkscape --version
       - run: pip install svgutils
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Run export
         run: ./export.sh --universities --companies --studies --contest-package --background --transparent --output-directory out 64 256
       - uses: actions/upload-artifact@v4
@@ -29,7 +29,7 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - uses: actions/download-artifact@v4
         with:
           name: logos
@@ -57,7 +57,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - uses: actions/download-artifact@v4.1.7
+      - uses: actions/download-artifact@v4
         with:
           name: logos
           path: out
