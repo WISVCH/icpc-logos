@@ -64,7 +64,12 @@ jobs:
       - name: Zip logos
         run: cd ${{ github.workspace }}/out; for i in */; do zip -r "${i%/}.zip" "$i"; done; cd ${{ github.workspace }}
       - name: Zip contest package
-        run: cd ${{ github.workspace }}/out; zip -r contest-package.zip contest-package/ cd ${{ github.workspace }}
+        run: |
+         cd ${{ github.workspace }}/out
+         rm contest-package.zip
+         cd contest-package
+         zip -r ../contest-package.zip contest-package
+         cd ${{ github.workspace }}
       - uses: actions/upload-artifact@v4
         if: github.ref != 'refs/heads/main'
         with:
