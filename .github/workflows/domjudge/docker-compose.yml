@@ -1,8 +1,5 @@
 # Thanks to Verwoerd
 # https://github.com/Programming-Contest-Foundation/logo/blob/main/domjudge/docker-compose.yml
-
-version: '3'
-
 services:
   mariadb:
     image: mariadb
@@ -18,20 +15,37 @@ services:
     volumes:
       - /var/lib/mysql
   domjudge:
-    healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:12345"]
-      interval: 30s
-      timeout: 5s
-      retries: 3
-      start_period: 1m
-    image: domjudge/domserver
+#    healthcheck:
+#      test: ["CMD", "curl", "-f", "http://localhost:12345"]
+#      interval: 30s
+#      timeout: 5s
+#      retries: 3
+#      start_period: 1m
+    image: ghcr.io/wisvch/domjudge-packaging/domserver
     hostname: domserver
     depends_on:
       - mariadb
+    environment:
+      - DJ_DB_INSTALL_BARE=1
     ports:
       - 12345:80
     volumes:
-      - ${PWD}/affilDOMjudge:/opt/domjudge/domserver/webapp/public/images/affiliations
+      - ${PWD}/out/contest-package:/tmp/icpc-logos
   #  entrypoint: ["/bin/bash","-c","sleep 1m && /scripts/start.sh"]
   #  hostname: domserver
   #  #privileged: true
+#  cds:
+#    image: ghcr.io/icpctools/cds:2.6.1161
+#    depends_on:
+#      - domjudge
+#    ports:
+#      - 12346:8080
+#      - 12347:8443
+#    environment:
+#      - ADMIN_PASSWORD=blaat123
+#      - PRESENTATION_PASSWORD=blaat123
+#      - CCS_URL=http://domserver/api/contests/demo
+#      - CCS_USER=feed
+#      - CCS_PASSWORD=blaat123123
+#    volumes:
+#      - ../../../out/contest-package:/contest

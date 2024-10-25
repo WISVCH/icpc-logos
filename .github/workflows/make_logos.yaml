@@ -17,9 +17,9 @@ jobs:
       - run: inkscape --version
       - run: pip install svgutils
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Run export
-        run: ./export.sh --universities --companies --studies --background --transparent --output-directory out 64 256
+        run: ./export.sh --universities --companies --studies --contest-package --background --transparent --output-directory out 64 256
       - uses: actions/upload-artifact@v4
         with:
           name: logos
@@ -29,8 +29,8 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      - uses: actions/download-artifact@v4.1.7
+        uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
         with:
           name: logos
           path: out
@@ -39,20 +39,13 @@ jobs:
       - name: Test in DJ
         run: |
           cd ${{ github.workspace }}
-          afftmp="affilDOMjudge"
+          ./.github/workflows/generate-metadata.sh
           sudo apt update; sudo apt install cutycapt xvfb httpie -y
-          mkdir $afftmp
-          cp ${{ github.workspace }}/out/background_64/* $afftmp
           docker compose -f .github/workflows/domjudge/docker-compose.yml up -d mariadb
           sleep 30s
           docker compose -f .github/workflows/domjudge/docker-compose.yml up -d domjudge
           sleep 1m
-          ADMINPASS=$(docker exec -i domjudge-domjudge-1 cat /opt/domjudge/domserver/etc/initial_admin_password.secret)
-          http -a admin:$ADMINPASS --check-status -b -f POST "http://localhost:12345/api/users/organizations" json@out/organizations.json
-          jq "[.[] | {\"organization_id\": .id, \"name\": .formal_name, \"id\":1, \"group_ids\": [\"3\"]}] | to_entries | map( (.value.id = \"\(1+.key)\" ) | .value)" out/organizations.json > teams.json
-          http -a admin:$ADMINPASS --check-status -b -f POST "http://localhost:12345/api/users/teams" json@teams.json
-          http -a admin:$ADMINPASS --check-status -b PUT "http://localhost:12345/api/config" show_affiliation_logos=true show_flags=true show_affiliations=true data_source=1 --ignore-stdin
-          http -a admin:$ADMINPASS --verbose --check-status -b GET "http://localhost:12345/api/config"
+          docker exec -w /tmp/icpc-logos domjudge-domjudge-1 /bin/bash  -c "yes | import-contest"
           xvfb-run --server-args="-screen 0, 1024x768x24" cutycapt --url=http://localhost:12345 --out=scoreboard.png
       - uses: actions/upload-artifact@v4
         with:
@@ -60,18 +53,30 @@ jobs:
           path: scoreboard.png
   release:
     needs: render
-    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-20.04
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      - uses: actions/download-artifact@v4.1.7
+        uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
         with:
           name: logos
           path: out
       - name: Zip logos
         run: cd ${{ github.workspace }}/out; for i in */; do zip -r "${i%/}.zip" "$i"; done; cd ${{ github.workspace }}
+      - name: Zip contest package
+        run: |
+         cd ${{ github.workspace }}/out
+         rm contest-package.zip
+         cd contest-package
+         zip -r ../contest-package.zip *
+         cd ${{ github.workspace }}
+      - uses: actions/upload-artifact@v4
+        if: github.ref != 'refs/heads/main'
+        with:
+          name: zips
+          path: out/*.zip
       - uses: "marvinpinto/action-automatic-releases@latest"
+        if: github.ref == 'refs/heads/main'
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "latest"
