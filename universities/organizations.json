@@ -511,5 +511,14 @@
     "country": "SWE",
     "url": "https://ju.se",
     "location": {}
+  },
+  {
+    "id": "26092",
+    "icpc_id": "26092",
+    "name": "Liverpool Hope",
+    "formal_name": "Liverpool Hope University",
+    "country": "GBR",
+    "url": "https://www.hope.ac.uk",
+    "location": {}
   }
 ]
