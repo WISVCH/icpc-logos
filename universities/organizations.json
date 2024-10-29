@@ -18,6 +18,15 @@
     "country": "POL"
   },
   {
+    "id": "175",
+    "icpc_id": "175",
+    "name": "Bonn U.",
+    "formal_name": "Bonn University",
+    "country": "DEU",
+    "url": "http://www.uni-bonn.de",
+    "location": {}
+  },
+  {
     "id": "290",
     "name": "CAU Kiel",
     "formal_name": "Christian-Albrechts-Universitaet zu Kiel",
