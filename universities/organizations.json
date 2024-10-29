@@ -375,6 +375,15 @@
     "country": "DEU"
   },
   {
+    "id": "7431",
+    "icpc_id": "7431",
+    "name": "AAU",
+    "formal_name": "Aalborg University",
+    "country": "DNK",
+    "url": "http://aau.dk",
+    "location": {}
+  },
+  {
     "id": "7464",
     "name": "Brunel",
     "formal_name": "Brunel University London",
