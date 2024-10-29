@@ -502,5 +502,14 @@
     "name": "CUB",
     "formal_name": "Constructor University Bremen",
     "country": "DEU"
+  },
+  {
+    "id": "23885",
+    "icpc_id": "23885",
+    "name": "JU",
+    "formal_name": "Jönköping University",
+    "country": "SWE",
+    "url": "https://ju.se",
+    "location": {}
   }
 ]
