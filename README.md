@@ -59,6 +59,7 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./universities/logos/7.svg" width="32" height="32"> | 7 |  Aarhus University | :heavy_check_mark: |
 | <img src="./universities/logos/33.svg" width="32" height="32"> | 33 |  Ulm University | :heavy_check_mark: |
 | <img src="./universities/logos/131.svg" width="32" height="32"> | 131 |  Jagiellonian University in Krakow | :heavy_check_mark: |
+| <img src="./universities/logos/175.svg" width="32" height="32"> | 175 |  Bonn University | :heavy_check_mark: |
 | <img src="./universities/logos/290.svg" width="32" height="32"> | 290 |  Christian-Albrechts-Universitaet zu Kiel | :heavy_check_mark: |
 | <img src="./universities/logos/362.svg" width="32" height="32"> | 362 |  Darmstadt University of Technology | :heavy_check_mark: |
 | <img src="./universities/logos/367.svg" width="32" height="32"> | 367 |  Delft University of Technology | :heavy_check_mark: |
@@ -117,6 +118,7 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./universities/logos/7006.svg" width="32" height="32"> | 7006 |  University College London | :heavy_check_mark: |
 | <img src="./universities/logos/7019.svg" width="32" height="32"> | 7019 |  Hogeschool Leiden | :heavy_check_mark: |
 | <img src="./universities/logos/7264.svg" width="32" height="32"> | 7264 |  University of Göttingen | :heavy_check_mark: |
+| <img src="./universities/logos/7431.svg" width="32" height="32"> | 7431 |  Aalborg University | :heavy_check_mark: |
 | <img src="./universities/logos/7464.svg" width="32" height="32"> | 7464 |  Brunel University London | :heavy_check_mark: |
 | <img src="./universities/logos/7477.svg" width="32" height="32"> | 7477 |  Vilnius Gediminas Technical University | :heavy_check_mark: |
 | <img src="./universities/logos/7887.svg" width="32" height="32"> | 7887 |  University of Iceland | :heavy_check_mark: |
@@ -128,15 +130,19 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./universities/logos/8311.svg" width="32" height="32"> | 8311 |  Université de Mons | :heavy_check_mark: |
 | <img src="./universities/logos/8317.svg" width="32" height="32"> | 8317 |  University of Bristol | :heavy_check_mark: |
 | <img src="./universities/logos/9858.svg" width="32" height="32"> | 9858 |  Université Catholique de Louvain | :heavy_check_mark: |
-| <img src="./universities/logos/11054.svg" width="32" height="32"> | 11054 |  Tallinn University of Technology | :heavy_check_mark: |
+| <img src="./universities/logos/10500.svg" width="32" height="32"> | 10500 |  Maastricht University | :heavy_check_mark: |
+| <img src="./universities/logos/11048.svg" width="32" height="32"> | 11048 |  Tallinn University of Technology | :heavy_check_mark: |
 | <img src="./universities/logos/11103.svg" width="32" height="32"> | 11103 |  Katholieke Universiteit Leuven | :heavy_check_mark: |
 | <img src="./universities/logos/13859.svg" width="32" height="32"> | 13859 |  University of Luxembourg | :heavy_check_mark: |
+| <img src="./universities/logos/14148.svg" width="32" height="32"> | 14148 |  University of Leeds | :heavy_check_mark: |
 | <img src="./universities/logos/14277.svg" width="32" height="32"> | 14277 |  Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt | :heavy_check_mark: |
 | <img src="./universities/logos/18106.svg" width="32" height="32"> | 18106 |  Jacobs University in Bremen | :heavy_check_mark: |
 | <img src="./universities/logos/18633.svg" width="32" height="32"> | 18633 |  University of Augsburg | :heavy_check_mark: |
 | <img src="./universities/logos/20052.svg" width="32" height="32"> | 20052 |  Heinrich-Heine-Universität Düsseldorf | :heavy_check_mark: |
 | <img src="./universities/logos/21966.svg" width="32" height="32"> | 21966 |  Anglia Ruskin University | :heavy_check_mark: |
 | <img src="./universities/logos/21967.svg" width="32" height="32"> | 21967 |  Constructor University Bremen | :heavy_check_mark: |
+| <img src="./universities/logos/23885.svg" width="32" height="32"> | 23885 |  Jönköping University | :heavy_check_mark: |
+| <img src="./universities/logos/26092.svg" width="32" height="32"> | 26092 |  Liverpool Hope University | :heavy_check_mark: |
 
 ### Companies
 

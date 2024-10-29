@@ -1,15 +1,27 @@
 [
   {
     "id": "7",
+    "icpc_id": "7",
     "name": "Aarhus U.",
     "formal_name": "Aarhus University",
-    "country": "DNK"
+    "country": "DNK",
+    "url": "http://www.au.dk",
+    "location": {
+      "longitude": 56.1667,
+      "latitude": 10.2000
+    }
   },
   {
     "id": "33",
+    "icpc_id": "33",
     "name": "Ulm U",
     "formal_name": "Ulm University",
-    "country": "DEU"
+    "country": "DEU",
+    "url": "http://www.uni-ulm.de/en/university-news.html",
+    "location": {
+      "longitude": 9.992537,
+      "latitude": 48.398537
+    }
   },
   {
     "id": "131",
@@ -24,7 +36,10 @@
     "formal_name": "Bonn University",
     "country": "DEU",
     "url": "http://www.uni-bonn.de",
-    "location": {}
+    "location": {
+      "longitude": 7.09549,
+      "latitude": 50.73438
+    }
   },
   {
     "id": "290",
@@ -40,15 +55,28 @@
   },
   {
     "id": "367",
+    "icpc_id": "367",
     "name": "TU Delft",
     "formal_name": "Delft University of Technology",
-    "country": "NLD"
+    "country": "NLD",
+    "url": "http://www.tudelft.nl",
+    "twitter_hashtag": "#TUDELFT",
+    "location": {
+      "longitude": 4.3742139,
+      "latitude": 51.9897656
+    }
   },
   {
     "id": "452",
+    "icpc_id": "452",
     "name": "TU/e",
     "formal_name": "Eindhoven University of Technology",
-    "country": "NLD"
+    "country": "NLD",
+    "url": "http://www.tue.nl/english/",
+    "location": {
+      "longitude": 5.47778,
+      "latitude": 51.44083
+    }
   },
   {
     "id": "573",
@@ -58,15 +86,31 @@
   },
   {
     "id": "980",
+    "icpc_id": "980",
     "name": "KTU",
     "formal_name": "Kaunas University of Technology",
-    "country": "LTU"
+    "country": "LTU",
+    "url": "http://www.ktu.lt",
+    "twitter_hashtag": "#KTU",
+    "twitter_account": "@KTUnews",
+    "location": {
+      "longitude": 23.9580416,
+      "latitude": 54.9028816
+    }
   },
   {
     "id": "1039",
+    "icpc_id": "1039",
     "name": "KTH",
     "formal_name": "KTH - Royal Institute of Technology",
-    "country": "SWE"
+    "country": "SWE",
+    "url": "http://www.kth.se",
+    "twitter_hashtag": "#KTH",
+    "twitter_account": "@KTHuniversity",
+    "location": {
+      "longitude": 18.073746,
+      "latitude": 59.347313
+    }
   },
   {
     "id": "1088",
@@ -76,27 +120,53 @@
   },
   {
     "id": "1097",
+    "icpc_id": "1097",
     "name": "LIU",
     "formal_name": "Linköping University",
-    "country": "SWE"
+    "country": "SWE",
+    "url": "http://www.liu.se",
+    "location": {
+      "longitude": 15.616561,
+      "latitude": 58.411003
+    }
   },
   {
     "id": "1112",
+    "icpc_id": "1112",
     "name": "LU",
     "formal_name": "Lund University",
-    "country": "SWE"
+    "country": "SWE",
+    "url": "http://www.lu.se",
+    "twitter_hashtag": "#lunduniversity",
+    "twitter_account": "lunduniversity",
+    "location": {
+      "longitude": 13.2009181,
+      "latitude": 55.7119483
+    }
   },
   {
     "id": "1154",
+    "icpc_id": "1154",
     "name": "Uni Lübeck",
     "formal_name": "Universität zu Lübeck",
-    "country": "DEU"
+    "country": "DEU",
+    "url": "http://www.uni-luebeck.de",
+    "location": {
+      "longitude": 10.706061,
+      "latitude": 53.837288
+    }
   },
   {
     "id": "1362",
+    "icpc_id": "1362",
     "name": "Norwegian TNU",
     "formal_name": "Norwegian University of Science and Technology",
-    "country": "NOR"
+    "country": "NOR",
+    "url": "http://www.ntnu.no/",
+    "location": {
+      "longitude": 10.4018,
+      "latitude": 63.4178
+    }
   },
   {
     "id": "1534",
@@ -118,21 +188,44 @@
   },
   {
     "id": "2267",
+    "icpc_id": "2267",
     "name": "UdS",
     "formal_name": "Saarland University",
-    "country": "DEU"
+    "country": "DEU",
+    "url": "http://www.uni-sb.de",
+    "twitter_hashtag": "#SAAR",
+    "twitter_account": "Saar_Uni",
+    "location": {
+      "longitude": 7.040975,
+      "latitude": 49.2550284
+    }
   },
   {
     "id": "2272",
+    "icpc_id": "2272",
     "name": "KIT",
     "formal_name": "Karlsruhe Institute of Technology",
-    "country": "DEU"
+    "country": "DEU",
+    "url": "http://www.kit.edu/english/",
+    "twitter_hashtag": "#Karlsruhe",
+    "twitter_account": "@KITKarlsruhe",
+    "location": {
+      "longitude": 8.366815,
+      "latitude": 49.022153
+    }
   },
   {
     "id": "2274",
+    "icpc_id": "2274",
     "name": "Uni Rostock",
     "formal_name": "Universität Rostock",
-    "country": "DEU"
+    "country": "DEU",
+    "url": "http://www.uni-rostock.de",
+    "twitter_hashtag": "#UniRostock",
+    "location": {
+      "longitude": 12.133323,
+      "latitude": 54.087903
+    }
   },
   {
     "id": "2275",
@@ -148,9 +241,15 @@
   },
   {
     "id": "2284",
+    "icpc_id": "2284",
     "name": "UvA",
     "formal_name": "Universiteit van Amsterdam",
-    "country": "NLD"
+    "country": "NLD",
+    "url": "http://www.uva.nl",
+    "location": {
+      "longitude": 4.950124,
+      "latitude": 52.357044
+    }
   },
   {
     "id": "2292",
@@ -160,27 +259,57 @@
   },
   {
     "id": "2320",
-    "name": "UiB",
+    "icpc_id": "2320",
+    "name": "Bergen",
     "formal_name": "University of Bergen",
-    "country": "NOR"
+    "country": "NOR",
+    "url": "http://www.uib.no",
+    "twitter_hashtag": "#ShandongU",
+    "twitter_account": "@uib",
+    "location": {
+      "longitude": 5.31918,
+      "latitude": 60.3878586
+    }
   },
   {
     "id": "2343",
+    "icpc_id": "2343",
     "name": "Cambridge",
     "formal_name": "University of Cambridge",
-    "country": "GBR"
+    "country": "GBR",
+    "url": "http://www.cam.ac.uk",
+    "twitter_hashtag": "#Cambridge",
+    "twitter_account": "Cambridge_Uni",
+    "location": {
+      "longitude": 0.1149085,
+      "latitude": 52.2042666
+    }
   },
   {
     "id": "2357",
+    "icpc_id": "2357",
     "name": "DIKU",
     "formal_name": "University of Copenhagen",
-    "country": "DNK"
+    "country": "DNK",
+    "url": "http://www.diku.dk/",
+    "twitter_hashtag": "#diku",
+    "twitter_account": "@koebenhavns_uni",
+    "location": {
+      "longitude": 12.572952,
+      "latitude": 55.680191
+    }
   },
   {
     "id": "2467",
+    "icpc_id": "2467",
     "name": "UiOslo",
     "formal_name": "University of Oslo",
-    "country": "NOR"
+    "country": "NOR",
+    "url": "http://www.uio.no",
+    "location": {
+      "longitude": 10.74609,
+      "latitude": 59.91273
+    }
   },
   {
     "id": "2523",
@@ -190,9 +319,17 @@
   },
   {
     "id": "2526",
+    "icpc_id": "2526",
     "name": "Tartu",
     "formal_name": "University of Tartu",
-    "country": "EST"
+    "country": "EST",
+    "url": "http://www.ut.ee/",
+    "twitter_hashtag": "#unitartu",
+    "twitter_account": "@unitartu",
+    "location": {
+      "longitude": 26.7167427,
+      "latitude": 58.379694
+    }
   },
   {
     "id": "2561",
@@ -202,21 +339,42 @@
   },
   {
     "id": "2625",
+    "icpc_id": "2625",
     "name": "Utrecht University",
     "formal_name": "Utrecht University",
-    "country": "NLD"
+    "country": "NLD",
+    "url": "http://www.uu.nl",
+    "twitter_hashtag": "#UtrechtUni",
+    "twitter_account": "@UniUtrecht",
+    "location": {
+      "longitude": 5.1226,
+      "latitude": 52.0902
+    }
   },
   {
     "id": "2643",
+    "icpc_id": "2643",
     "name": "Vilnius University",
     "formal_name": "Vilnius University",
-    "country": "LTU"
+    "country": "LTU",
+    "url": "http://www.vu.lt",
+    "twitter_hashtag": "#VU",
+    "location": {
+      "longitude": 25.2529321,
+      "latitude": 54.700171
+    }
   },
   {
     "id": "2664",
+    "icpc_id": "2664",
     "name": "VU",
     "formal_name": "Vrije Universiteit",
-    "country": "NLD"
+    "country": "NLD",
+    "url": "http://www.vu.nl",
+    "location": {
+      "longitude": 4.8657199,
+      "latitude": 52.3337568
+    }
   },
   {
     "id": "3330",
@@ -226,15 +384,27 @@
   },
   {
     "id": "3397",
-    "name": "Chalmers",
+    "icpc_id": "3397",
+    "name": "",
     "formal_name": "Chalmers University of Technology",
-    "country": "SWE"
+    "country": "SWE",
+    "url": "http://www.chalmers.se",
+    "location": {
+      "longitude": 11.9722,
+      "latitude": 57.7033
+    }
   },
   {
     "id": "3403",
+    "icpc_id": "3403",
     "name": "Reykjavik U",
     "formal_name": "Reykjavik University",
-    "country": "ISL"
+    "country": "ISL",
+    "url": "http://www.ru.is",
+    "location": {
+      "longitude": -21.89541,
+      "latitude": 64.13548
+    }
   },
   {
     "id": "3546",
@@ -244,21 +414,43 @@
   },
   {
     "id": "3620",
+    "icpc_id": "3620",
     "name": "Oxford",
     "formal_name": "University of Oxford",
-    "country": "GBR"
+    "country": "GBR",
+    "url": "http://www.ox.ac.uk",
+    "twitter_hashtag": "#Oxford",
+    "twitter_account": "@UniofOxford",
+    "location": {
+      "longitude": -1.2547,
+      "latitude": 51.7566
+    }
   },
   {
     "id": "3678",
+    "icpc_id": "3678",
     "name": "Imperial",
     "formal_name": "Imperial College London",
-    "country": "GBR"
+    "country": "GBR",
+    "url": "http://www.imperial.ac.uk",
+    "twitter_hashtag": "#ImperialCollege",
+    "twitter_account": "@imperialcollege",
+    "location": {
+      "longitude": -0.1749,
+      "latitude": 51.4988
+    }
   },
   {
     "id": "3749",
+    "icpc_id": "3749",
     "name": "Nottingham",
     "formal_name": "University of Nottingham",
-    "country": "GBR"
+    "country": "GBR",
+    "url": "http://www.nottingham.ac.uk/",
+    "location": {
+      "longitude": -1.15047,
+      "latitude": 52.9536
+    }
   },
   {
     "id": "3758",
@@ -268,15 +460,27 @@
   },
   {
     "id": "3787",
-    "name": "RWTH",
+    "icpc_id": "3787",
+    "name": "",
     "formal_name": "RWTH Aachen University",
-    "country": "DEU"
+    "country": "DEU",
+    "url": "http://www.rwth-aachen.de/",
+    "location": {
+      "longitude": 6.08389,
+      "latitude": 50.77535
+    }
   },
   {
     "id": "4278",
+    "icpc_id": "4278",
     "name": "DTU",
     "formal_name": "Technical University of Denmark",
-    "country": "DNK"
+    "country": "DNK",
+    "url": "http://www.dtu.dk/english/About",
+    "location": {
+      "longitude": 12.5236,
+      "latitude": 55.6772
+    }
   },
   {
     "id": "4711",
@@ -292,9 +496,15 @@
   },
   {
     "id": "5541",
+    "icpc_id": "5541",
     "name": "Bath",
     "formal_name": "University of Bath",
-    "country": "GBR"
+    "country": "GBR",
+    "url": "http://www.bath.ac.uk/",
+    "location": {
+      "longitude": -2.360000,
+      "latitude": 51.380001
+    }
   },
   {
     "id": "5737",
@@ -316,15 +526,27 @@
   },
   {
     "id": "6557",
+    "icpc_id": "6557",
     "name": "FRA-UAS",
     "formal_name": "Frankfurt University of Applied Sciences",
-    "country": "DEU"
+    "country": "DEU",
+    "url": "http://www.frankfurt-university.de/",
+    "location": {
+      "longitude": 8.68417,
+      "latitude": 50.11552
+    }
   },
   {
     "id": "6817",
+    "icpc_id": "6817",
     "name": "UoL",
     "formal_name": "University of Liverpool",
-    "country": "GBR"
+    "country": "GBR",
+    "url": "http://www.liverpool.ac.uk/",
+    "location": {
+      "longitude": -2.97794,
+      "latitude": 53.41058
+    }
   },
   {
     "id": "6638",
@@ -334,21 +556,39 @@
   },
   {
     "id": "6859",
+    "icpc_id": "6859",
     "name": "Southampton",
     "formal_name": "University of Southampton",
-    "country": "GBR"
+    "country": "GBR",
+    "url": "https://www.southampton.ac.uk/",
+    "location": {
+      "longitude": 50.9346,
+      "latitude": -1.3960
+    }
   },
   {
     "id": "6864",
+    "icpc_id": "6864",
     "name": "ITU",
     "formal_name": "IT University of Copenhagen",
-    "country": "DNK"
+    "country": "DNK",
+    "url": "http://www.itu.dk",
+    "location": {
+      "longitude": 12.56553,
+      "latitude": 55.67594
+    }
   },
   {
     "id": "6929",
+    "icpc_id": "6929",
     "name": "Warwick",
     "formal_name": "University of Warwick",
-    "country": "GBR"
+    "country": "GBR",
+    "url": "http://www2.warwick.ac.uk/",
+    "location": {
+      "longitude": -1.561904,
+      "latitude": 52.379414
+    }
   },
   {
     "id": "6940",
@@ -381,25 +621,46 @@
     "formal_name": "Aalborg University",
     "country": "DNK",
     "url": "http://aau.dk",
-    "location": {}
+    "location": {
+      "longitude": 9.9850,
+      "latitude": 57.0150
+    }
   },
   {
     "id": "7464",
+    "icpc_id": "7464",
     "name": "Brunel",
     "formal_name": "Brunel University London",
-    "country": "GBR"
+    "country": "GBR",
+    "url": "http://www.brunel.ac.uk/",
+    "location": {
+      "longitude": -0.12574,
+      "latitude": 51.50853
+    }
   },
   {
     "id": "7477",
+    "icpc_id": "7477",
     "name": "Vilnius Gediminas TU",
     "formal_name": "Vilnius Gediminas Technical University",
-    "country": "LTU"
+    "country": "LTU",
+    "url": "http://www.vgtu.lt/en/",
+    "location": {
+      "longitude": 25.287514,
+      "latitude": 54.682789
+    }
   },
   {
     "id": "7887",
+    "icpc_id": "7887",
     "name": "UI",
     "formal_name": "University of Iceland",
-    "country": "ISL"
+    "country": "ISL",
+    "url": "http://english.hi.is",
+    "location": {
+      "longitude": -21.862675,
+      "latitude": 64.135666
+    }
   },
   {
     "id": "7918",
@@ -421,39 +682,63 @@
   },
   {
     "id": "8102",
-    "name": "Passau",
+    "icpc_id": "8102",
+    "name": "",
     "formal_name": "University of Passau",
-    "country": "DEU"
+    "country": "DEU",
+    "url": "http://www.uni-passau.de/",
+    "location": {
+      "longitude": 13.4653,
+      "latitude": 48.5743
+    }
   },
   {
     "id": "8170",
+    "icpc_id": "8170",
     "name": "HPI",
     "formal_name": "Hasso Plattner Institute",
-    "country": "DEU"
+    "country": "DEU",
+    "url": "http://www.hpi.de",
+    "location": {
+      "longitude": 13.133335721956158,
+      "latitude": 52.39409159656282
+    }
   },
   {
     "id": "8311",
+    "icpc_id": "8311",
     "name": "UMONS",
     "formal_name": "Université de Mons",
-    "country": "BEL"
+    "country": "BEL",
+    "url": "http://portail.umons.ac.be/FR/Pages/default.aspx",
+    "location": {
+      "longitude": 3.959178506138324,
+      "latitude": 50.45177802751673
+    }
   },
   {
     "id": "8317",
+    "icpc_id": "8317",
     "name": "Bristol",
     "formal_name": "University of Bristol",
-    "country": "GBR"
+    "country": "GBR",
+    "url": "http://www.bristol.ac.uk/",
+    "location": {
+      "longitude": -2.603288,
+      "latitude": 51.458447
+    }
   },
   {
     "id": "9858",
+    "icpc_id": "9858",
     "name": "UCLouvain",
     "formal_name": "Université Catholique de Louvain",
-    "country": "BEL"
-  },
-  {
-    "id": "11048",
-    "name": "TalTech",
-    "formal_name": "Tallinn University of Technology",
-    "country": "EST"
+    "country": "BEL",
+    "url": "http://uclouvain.be",
+    "location": {
+      "longitude": 4.6214,
+      "latitude": 50.8417
+    }
   },
   {
     "id": "10500",
@@ -462,7 +747,22 @@
     "formal_name": "Maastricht University",
     "country": "NLD",
     "url": "https://www.maastrichtuniversity.nl/",
-    "location": {}
+    "location": {
+      "longitude": 5.68889,
+      "latitude": 50.84833
+    }
+  },
+  {
+    "id": "11048",
+    "icpc_id": "11048",
+    "name": "TalTech",
+    "formal_name": "Tallinn University of Technology",
+    "country": "EST",
+    "url": "https://taltech.ee/",
+    "location": {
+      "longitude": 24.75353,
+      "latitude": 59.43696
+    }
   },
   {
     "id": "11103",
@@ -483,7 +783,10 @@
     "formal_name": "University of Leeds",
     "country": "GBR",
     "url": "https://www.leeds.ac.uk",
-    "location": {}
+    "location": {
+      "longitude": -1.5433,
+      "latitude": 53.8113
+    }
   },
   {
     "id": "14277",
@@ -517,9 +820,15 @@
   },
   {
     "id": "21967",
+    "icpc_id": "21967",
     "name": "CUB",
     "formal_name": "Constructor University Bremen",
-    "country": "DEU"
+    "country": "DEU",
+    "url": "https://constructor.university",
+    "location": {
+      "longitude": 8.650524009976339,
+      "latitude": 53.168400051110076
+    }
   },
   {
     "id": "23885",
@@ -528,7 +837,10 @@
     "formal_name": "Jönköping University",
     "country": "SWE",
     "url": "https://ju.se",
-    "location": {}
+    "location": {
+      "longitude": 14.3169,
+      "latitude": 57.7815
+    }
   },
   {
     "id": "26092",
@@ -537,6 +849,9 @@
     "formal_name": "Liverpool Hope University",
     "country": "GBR",
     "url": "https://www.hope.ac.uk",
-    "location": {}
+    "location": {
+      "longitude": -2.9644,
+      "latitude": 53.4123
+    }
   }
 ]
