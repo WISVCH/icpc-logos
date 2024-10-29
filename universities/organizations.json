@@ -441,6 +441,15 @@
     "country": "BEL"
   },
   {
+    "id": "10500",
+    "icpc_id": "10500",
+    "name": "UM",
+    "formal_name": "Maastricht University",
+    "country": "NLD",
+    "url": "https://www.maastrichtuniversity.nl/",
+    "location": {}
+  },
+  {
     "id": "11054",
     "name": "TalTech",
     "formal_name": "Tallinn University of Technology",
