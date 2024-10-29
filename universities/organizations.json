@@ -450,6 +450,12 @@
     "country": "BEL"
   },
   {
+    "id": "11048",
+    "name": "TalTech",
+    "formal_name": "Tallinn University of Technology",
+    "country": "EST"
+  },
+  {
     "id": "10500",
     "icpc_id": "10500",
     "name": "UM",
@@ -457,12 +463,6 @@
     "country": "NLD",
     "url": "https://www.maastrichtuniversity.nl/",
     "location": {}
-  },
-  {
-    "id": "11054",
-    "name": "TalTech",
-    "formal_name": "Tallinn University of Technology",
-    "country": "EST"
   },
   {
     "id": "11103",
@@ -475,6 +475,15 @@
     "name": "Uni Lu",
     "formal_name": "University of Luxembourg",
     "country": "LUX"
+  },
+  {
+    "id": "14148",
+    "icpc_id": "14148",
+    "name": "UoL",
+    "formal_name": "University of Leeds",
+    "country": "GBR",
+    "url": "https://www.leeds.ac.uk",
+    "location": {}
   },
   {
     "id": "14277",
