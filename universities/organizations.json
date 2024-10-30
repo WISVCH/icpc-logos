@@ -122,9 +122,16 @@
   },
   {
     "id": "1088",
+    "icpc_id": "1088",
     "name": "Leiden University",
     "formal_name": "Leiden University",
-    "country": "NLD"
+    "country": "NLD",
+    "url": "http://www.leidenuniv.nl",
+    "twitter_hashtag": "#UniLeiden",
+    "location": {
+      "longitude": 4.4830203,
+      "latitude": 52.1571518
+    }
   },
   {
     "id": "1097",
@@ -618,15 +625,27 @@
   },
   {
     "id": "7006",
+    "icpc_id": "7006",
     "name": "UCL",
     "formal_name": "University College London",
-    "country": "GBR"
+    "country": "GBR",
+    "url": "http://ucl.ac.uk",
+    "location": {
+      "longitude":-0.133583,
+      "latitude": 51.524776
+    }
   },
   {
     "id": "7019",
+    "icpc_id": "7019",
     "name": "HS Leiden",
     "formal_name": "Hogeschool Leiden",
-    "country": "NLD"
+    "country": "NLD",
+    "url": "http://www.hsleiden.nl/",
+    "location": {
+      "longitude": 4.4697,
+      "latitude": 52.1670
+    }
   },
   {
     "id": "7264",
@@ -720,9 +739,17 @@
   },
   {
     "id": "8002",
+    "icpc_id": "8002",
     "name": "Radboud",
     "formal_name": "Radboud University",
-    "country": "NLD"
+    "country": "NLD",
+    "url": "http://www.ru.nl/english",
+    "twitter_hashtag": "#Radboud",
+    "twitter_account": "@Radboud_Uni",
+    "location": {
+      "longitude": 5.8569,
+      "latitude": 51.8193
+    }
   },
   {
     "id": "8102",
