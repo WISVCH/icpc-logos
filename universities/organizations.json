@@ -66,21 +66,7 @@
       "latitude": 51.9897656
     }
   },
-  {
-    "id": "573",
-    "icpc_id": "573",
-    "name": "FAU",
-    "formal_name": "Friedrich-Alexander-University Erlangen-Nuremberg",
-    "country": "DEU",
-    "url": "http://www.cs.fau.de/",
-    "twitter_hashtag": "#FAU",
-    "twitter_account": "@UniFAU",
-    "location": {
-      "longitude": 11.005243,
-      "latitude": 49.597863
-    }
-  },
-  {
+    {
     "id": "452",
     "icpc_id": "452",
     "name": "TU/e",
@@ -94,9 +80,17 @@
   },
   {
     "id": "573",
+    "icpc_id": "573",
     "name": "FAU",
     "formal_name": "Friedrich-Alexander-University Erlangen-Nuremberg",
-    "country": "DEU"
+    "country": "DEU",
+    "url": "http://www.cs.fau.de/",
+    "twitter_hashtag": "#FAU",
+    "twitter_account": "@UniFAU",
+    "location": {
+      "longitude": 11.005243,
+      "latitude": 49.597863
+    }
   },
   {
     "id": "980",
