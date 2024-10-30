@@ -651,6 +651,18 @@
     }
   },
   {
+    "id": "7488",
+    "icpc_id": "7488",
+    "name": "NUI Maynooth",
+    "formal_name": "Maynooth University",
+    "country": "IRL",
+    "url": "http://www.maynoothuniversity.ie/",
+    "location": {
+      "longitude": -6.59361,
+      "latitude": 53.385
+    }
+  },
+  {
     "id": "7887",
     "icpc_id": "7887",
     "name": "UI",
