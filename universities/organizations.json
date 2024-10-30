@@ -67,6 +67,20 @@
     }
   },
   {
+    "id": "573",
+    "icpc_id": "573",
+    "name": "FAU",
+    "formal_name": "Friedrich-Alexander-University Erlangen-Nuremberg",
+    "country": "DEU",
+    "url": "http://www.cs.fau.de/",
+    "twitter_hashtag": "#FAU",
+    "twitter_account": "@UniFAU",
+    "location": {
+      "longitude": 11.005243,
+      "latitude": 49.597863
+    }
+  },
+  {
     "id": "452",
     "icpc_id": "452",
     "name": "TU/e",
@@ -490,9 +504,15 @@
   },
   {
     "id": "4786",
+    "icpc_id": "4786",
     "name": "Aalto U",
     "formal_name": "Aalto University",
-    "country": "FIN"
+    "country": "FIN",
+    "url": "http://www.aalto.fi/",
+    "location": {
+      "longitude": 24.9384,
+      "latitude": 60.1769
+    }
   },
   {
     "id": "5541",
@@ -514,9 +534,15 @@
   },
   {
     "id": "5784",
+    "icpc_id": "5784",
     "name": "UEDIN",
     "formal_name": "University of Edinburgh",
-    "country": "GBR"
+    "country": "GBR",
+    "url": "http://www.ed.ac.uk",
+    "location": {
+      "longitude": -3.187194,
+      "latitude": 55.947388
+    }
   },
   {
     "id": "6026",
@@ -610,9 +636,15 @@
   },
   {
     "id": "7264",
+    "icpc_id": "7264",
     "name": "University of Göttin",
     "formal_name": "University of Göttingen",
-    "country": "DEU"
+    "country": "DEU",
+    "url": "http://www.uni-goettingen.de",
+    "location": {
+      "longitude": 9.905548,
+      "latitude": 51.545483
+    }
   },
   {
     "id": "7431",
@@ -676,9 +708,15 @@
   },
   {
     "id": "7918",
+    "icpc_id": "7918",
     "name": "St Andrews",
     "formal_name": "University of St Andrews",
-    "country": "GBR"
+    "country": "GBR",
+    "url": "http://www.st-andrews.ac.uk/",
+    "location": {
+      "longitude": -2.806343,
+      "latitude": 56.335054
+    }
   },
   {
     "id": "7950",
@@ -778,9 +816,15 @@
   },
   {
     "id": "11103",
+    "icpc_id": "11103",
     "name": "KU Leuven",
-    "formal_name": "Katholieke Universiteit Leuven",
-    "country": "BEL"
+    "formal_name": "KU Leuven",
+    "country": "BEL",
+    "url": "https://www.kuleuven.be/kuleuven",
+    "location": {
+      "longitude": 4.70093,
+      "latitude": 50.87959
+    }
   },
   {
     "id": "13859",
