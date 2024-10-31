@@ -191,9 +191,17 @@
   },
   {
     "id": "1917",
+    "icpc_id": "1917",
     "name": "TUM",
     "formal_name": "Technische Universität München",
-    "country": "DEU"
+    "country": "DEU",
+    "url": "http://www.tum.de",
+    "twitter_hashtag": "#TUM",
+    "twitter_account": "TU_Muenchen",
+    "location": {
+      "longitude": 11.5656715,
+      "latitude": 48.1496636
+    }
   },
   {
     "id": "2061",
@@ -619,9 +627,15 @@
   },
   {
     "id": "6940",
+    "icpc_id": "6940",
     "name": "Glasgow",
     "formal_name": "University of Glasgow",
-    "country": "GBR"
+    "country": "GBR",
+    "url": "http://www.gla.ac.uk/",
+    "location": {
+      "longitude": -4.289058,
+      "latitude": 55.873543
+    }
   },
   {
     "id": "7006",
@@ -631,7 +645,7 @@
     "country": "GBR",
     "url": "http://ucl.ac.uk",
     "location": {
-      "longitude":-0.133583,
+      "longitude": -0.133583,
       "latitude": 51.524776
     }
   },
@@ -849,9 +863,15 @@
   },
   {
     "id": "13859",
+    "icpc_id": "13859",
     "name": "Uni Lu",
     "formal_name": "University of Luxembourg",
-    "country": "LUX"
+    "country": "LUX",
+    "url": "https://wwwen.uni.lu",
+    "location": {
+      "longitude": 6.1340,
+      "latitude": 49.6603
+    }
   },
   {
     "id": "14148",
