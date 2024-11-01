@@ -276,9 +276,15 @@
   },
   {
     "id": "2292",
+    "icpc_id": "2292",
     "name": "UCC",
     "formal_name": "University College Cork",
-    "country": "IRL"
+    "country": "IRL",
+    "url": "http://www.ucc.ie/",
+    "location": {
+      "longitude": 51.89797,
+      "latitude": -8.47061
+    }
   },
   {
     "id": "2320",
