@@ -862,6 +862,18 @@
     }
   },
   {
+    "id": "11352",
+    "icpc_id": "11352",
+    "name": "RUB",
+    "formal_name": "Ruhr University",
+    "country": "DEU",
+    "url": "https://www.ruhr-uni-bochum.de/de",
+    "location": {
+      "longitude": 6.88333,
+      "latitude": 51.43333
+    }
+  },
+  {
     "id": "13859",
     "icpc_id": "13859",
     "name": "Uni Lu",
