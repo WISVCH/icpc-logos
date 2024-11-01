@@ -917,9 +917,15 @@
   },
   {
     "id": "20052",
+    "icpc_id": "20052",
     "name": "HHU Düsseldorf",
     "formal_name": "Heinrich-Heine-Universität Düsseldorf",
-    "country": "DEU"
+    "country": "DEU",
+    "url": "http://hhu.de",
+    "location": {
+      "longitude": 6.794116587017409,
+      "latitude": 51.191365772488595
+    }
   },
   {
     "id": "21966",
