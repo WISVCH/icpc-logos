@@ -134,7 +134,7 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./universities/logos/10500.svg" width="32" height="32"> | 10500 |  Maastricht University | :heavy_check_mark: |
 | <img src="./universities/logos/11048.svg" width="32" height="32"> | 11048 |  Tallinn University of Technology | :heavy_check_mark: |
 | <img src="./universities/logos/11103.svg" width="32" height="32"> | 11103 |  KU Leuven | :heavy_check_mark: |
-| <img src="./universities/logos/11352.svg" width="32" height="32"> | 11352 |  Ruhr University | :heavy_check_mark: |
+| <img src="./universities/logos/11352.svg" width="32" height="32"> | 11352 |  Ruhr University Bochum | :heavy_check_mark: |
 | <img src="./universities/logos/13859.svg" width="32" height="32"> | 13859 |  University of Luxembourg | :heavy_check_mark: |
 | <img src="./universities/logos/14148.svg" width="32" height="32"> | 14148 |  University of Leeds | :heavy_check_mark: |
 | <img src="./universities/logos/14277.svg" width="32" height="32"> | 14277 |  Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt | :heavy_check_mark: |
