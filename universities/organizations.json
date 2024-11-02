@@ -342,9 +342,15 @@
   },
   {
     "id": "2523",
+    "icpc_id": "2523",
     "name": "COGS",
     "formal_name": "University of Sussex",
-    "country": "GBR"
+    "country": "GBR",
+    "url": "http://www.cogs.susx.ac.uk/",
+    "location": {
+      "longitude": -0.0972,
+      "latitude": 50.8753
+    }
   },
   {
     "id": "2526",
@@ -362,9 +368,15 @@
   },
   {
     "id": "2561",
+    "icpc_id": "2561",
     "name": "UTwente",
     "formal_name": "University of Twente",
-    "country": "NLD"
+    "country": "NLD",
+    "url": "http://www.utwente.nl/",
+    "location": {
+      "longitude": 6.8520,
+      "latitude": 52.2390
+    }
   },
   {
     "id": "2625",
