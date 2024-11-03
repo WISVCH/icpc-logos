@@ -7,8 +7,8 @@
     "country": "DNK",
     "url": "http://www.au.dk",
     "location": {
-      "longitude": 56.1667,
-      "latitude": 10.2000
+      "longitude": 10.2000,
+      "latitude": 56.1667
     }
   },
   {
@@ -282,8 +282,8 @@
     "country": "IRL",
     "url": "http://www.ucc.ie/",
     "location": {
-      "longitude": 51.89797,
-      "latitude": -8.47061
+      "longitude": -8.47061,
+      "latitude": 51.89797
     }
   },
   {
@@ -615,8 +615,8 @@
     "country": "GBR",
     "url": "https://www.southampton.ac.uk/",
     "location": {
-      "longitude": 50.9346,
-      "latitude": -1.3960
+      "longitude": -1.3960,
+      "latitude": 50.9346
     }
   },
   {
@@ -841,6 +841,18 @@
     "location": {
       "longitude": 4.6214,
       "latitude": 50.8417
+    }
+  },
+  {
+    "id": "11048",
+    "icpc_id": "11048",
+    "name": "TalTech",
+    "formal_name": "Tallinn University of Technology",
+    "country": "EST",
+    "url": "https://taltech.ee/",
+    "location": {
+      "longitude": 24.75353,
+      "latitude": 59.43696
     }
   },
   {

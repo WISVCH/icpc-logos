@@ -259,7 +259,7 @@ if [ "$_arg_others" = on ]; then
   organizations_paths+=( "$OTHERS_PATH/organizations.json" )
 fi
 
-jq -s "[.[][] | {\"id\": .id, \"name\": .name, \"formal_name\": .formal_name, \"country\": (.country? + \"\")}]" "${organizations_paths[@]}" > "$_arg_output_directory/organizations.json"
+jq -s "[.[][] | {\"id\": .id, \"icpc_id\": (.icpc_id? + \"\"), \"name\": .name, \"formal_name\": .formal_name, \"country\": (.country? + \"\"), \"url\": (.url? + \"\") , \"twitter_hashtag\": (.twitter_hashtag? + \"\"), \"twitter_account\": (.twitter_account? + \"\"), \"location\": (.location? + {})}]" "${organizations_paths[@]}" > "$_arg_output_directory/organizations.json"
 
 # Export the svgs
 if [ "$_arg_universities" = on ]; then
