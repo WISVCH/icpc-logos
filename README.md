@@ -130,7 +130,8 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./universities/logos/8170.svg" width="32" height="32"> | 8170 |  Hasso Plattner Institute | :heavy_check_mark: |
 | <img src="./universities/logos/8311.svg" width="32" height="32"> | 8311 |  Université de Mons | :heavy_check_mark: |
 | <img src="./universities/logos/8317.svg" width="32" height="32"> | 8317 |  University of Bristol | :heavy_check_mark: |
-| <img src="./universities/logos/9858.svg" width="32" height="32"> | 9858 |  Université Catholique de Louvain | :heavy_check_mark: |
+| <img src="./universities/logos/9858.svg" width="32" height="32"> | 9858 |  UCLouvain | :heavy_check_mark: |
+| <img src="./universities/logos/11048.svg" width="32" height="32"> | 11048 |  Tallinn University of Technology | :heavy_check_mark: |
 | <img src="./universities/logos/10500.svg" width="32" height="32"> | 10500 |  Maastricht University | :heavy_check_mark: |
 | <img src="./universities/logos/11054.svg" width="32" height="32"> | 11054 |  Tallinn University of Technology | :heavy_check_mark: |
 | <img src="./universities/logos/11103.svg" width="32" height="32"> | 11103 |  KU Leuven | :heavy_check_mark: |
