@@ -113,5 +113,10 @@
     "id": "C-25",
     "name": "Jump Trading",
     "formal_name": "Jump Trading"
+  },
+  {
+    "id": "C-26",
+    "name": "Harvest",
+    "formal_name": "Harvest"
   }
 ]
