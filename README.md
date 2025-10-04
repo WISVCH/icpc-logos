@@ -146,6 +146,7 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./universities/logos/21967.svg" width="32" height="32"> | 21967 |  Constructor University Bremen | :heavy_check_mark: |
 | <img src="./universities/logos/23885.svg" width="32" height="32"> | 23885 |  Jönköping University | :heavy_check_mark: |
 | <img src="./universities/logos/26092.svg" width="32" height="32"> | 26092 |  Liverpool Hope University | :heavy_check_mark: |
+| <img src="./universities/logos/26551.svg" width="32" height="32"> | 26551 |  Tilburg University | :heavy_check_mark: |
 
 ### Companies
 
@@ -174,6 +175,7 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./companies/logos/C-23.svg" width="32" height="32"> | C-23 |  JetBrains | :heavy_check_mark: |
 | <img src="./companies/logos/C-24.svg" width="32" height="32"> | C-24 |  International Collegiate Programming Contest | :heavy_check_mark: |
 | <img src="./companies/logos/C-25.svg" width="32" height="32"> | C-25 |  Jump Trading | :heavy_check_mark: |
+| <img src="./companies/logos/C-26.svg" width="32" height="32"> | C-26 |  Harvest | :heavy_check_mark: |
 
 ### Studies
 

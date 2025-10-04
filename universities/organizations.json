@@ -998,5 +998,17 @@
       "longitude": -2.9644,
       "latitude": 53.4123
     }
+  },
+  {
+    "id": "26551",
+    "icpc_id": "26551",
+    "name": "Tilburg University",
+    "formal_name": "Tilburg University",
+    "country": "NLD",
+    "url": "https://www.tilburguniversity.edu/",
+    "location": {
+      "longitude": 5.0385,
+      "latitude": 51.56278
+    }
   }
 ]
