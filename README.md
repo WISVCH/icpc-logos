@@ -176,6 +176,7 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./companies/logos/C-24.svg" width="32" height="32"> | C-24 |  International Collegiate Programming Contest | :heavy_check_mark: |
 | <img src="./companies/logos/C-25.svg" width="32" height="32"> | C-25 |  Jump Trading | :heavy_check_mark: |
 | <img src="./companies/logos/C-26.svg" width="32" height="32"> | C-26 |  Harvest | :heavy_check_mark: |
+| <img src="./companies/logos/C-27.svg" width="32" height="32"> | C-27 |  Roseman labs | :heavy_check_mark: |
 
 ### Studies
 
@@ -199,3 +200,4 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./others/logos/O-1.svg" width="32" height="32"> | O-1 |  OBJECTION! | :heavy_check_mark: |
 | <img src="./others/logos/O-2.svg" width="32" height="32"> | O-2 |  The Wise Owl | :heavy_check_mark: |
 | <img src="./others/logos/O-3.svg" width="32" height="32"> | O-3 |  Elektrichiens Vakbond | :heavy_check_mark: |
+
