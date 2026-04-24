@@ -58,5 +58,35 @@
     "name": "CSE+AM+AP",
     "formal_name": "CSE + A. Mathematics + A. Physics",
     "studies": ["CSE", "AM", "AP"]
+  },
+  {
+    "id": "S-11",
+    "name": "CSE+ME+CE",
+    "formal_name": "CSE + Mechanical Eng. + Civil Eng.",
+    "studies": ["CSE", "ME", "CE"]
+  },
+  {
+    "id": "S-12",
+    "name": "EOR",
+    "formal_name": "Econometrics and Operations Research",
+    "studies": ["EOR"]
+  },
+  {
+    "id": "S-13",
+    "name": "CSE+ME",
+    "formal_name": "Computer Science & Eng. + Mechanical Eng.",
+    "studies": ["CSE", "ME"]
+  },
+  {
+    "id": "S-14",
+    "name": "EE+AE",
+    "formal_name": "Electrical Eng. + Aerospace Eng.",
+    "studies": ["EE", "AE"]
+  },
+  {
+    "id": "S-15",
+    "name": "AM+EE",
+    "formal_name": "Applied Mathematics + Electrical Eng.",
+    "studies": ["AM", "EE"]
   }
 ]

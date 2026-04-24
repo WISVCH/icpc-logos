@@ -192,6 +192,11 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> |   |   | S-8 |  Computer Science & Eng. + Aerospace Eng. | :heavy_check_mark: |
 | <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AM.svg" width="16" height="16"> | <img src="./studies/logos/AP.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> | S-9 |  CSE + A. Mathematics + A. Physics + Aerospace Eng. | :heavy_check_mark: |
 | <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AM.svg" width="16" height="16"> | <img src="./studies/logos/AP.svg" width="16" height="16"> |   | S-10 |  CSE + A. Mathematics + A. Physics | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/ME.svg" width="16" height="16"> | <img src="./studies/logos/CE.svg" width="16" height="16"> |   | S-11 |  CSE + Mechanical Eng. + Civil Eng. | :heavy_check_mark: |
+| <img src="./studies/logos/EOR.svg" width="16" height="16"> |   |   |   | S-12 |  Econometrics and Operations Research | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/ME.svg" width="16" height="16"> |   |   | S-13 |  Computer Science & Eng. + Mechanical Eng. | :heavy_check_mark: |
+| <img src="./studies/logos/EE.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> |   |   | S-14 |  Electrical Eng. + Aerospace Eng. | :heavy_check_mark: |
+| <img src="./studies/logos/AM.svg" width="16" height="16"> | <img src="./studies/logos/EE.svg" width="16" height="16"> |   |   | S-15 |  Applied Mathematics + Electrical Eng. | :heavy_check_mark: |
 
 ### Others
 
@@ -200,4 +205,3 @@ For DOMJudge use the `background_64.zip`.
 | <img src="./others/logos/O-1.svg" width="32" height="32"> | O-1 |  OBJECTION! | :heavy_check_mark: |
 | <img src="./others/logos/O-2.svg" width="32" height="32"> | O-2 |  The Wise Owl | :heavy_check_mark: |
 | <img src="./others/logos/O-3.svg" width="32" height="32"> | O-3 |  Elektrichiens Vakbond | :heavy_check_mark: |
-
