@@ -32,15 +32,15 @@ For DOMJudge use the `background_64.zip`.
   - Put it in `studies/logos`.
   - Add the study to `studies/organizations.json`.
 - Test the export by running `./export.sh`.
-  - Inkscape should be installed for this.
+  - Inkscape should be installed for this, as well as the Python module `svgutils`.
 
 ### Other
 - Add a other logo by duplicating one of the existing logos in `others/logos`, and change the content of the logos group.
-- It is important the logos group still exists, and contains the logo.
+  - It is important the logos group still exists, and contains the logo.
 - Add the organization to `others/organizations.json`.
-- As `id`, use the next free id, starting with a `O-`.
+  - As `id`, use the next free id, starting with a `O-`.
 - Test the export by running `./export.sh`.
-- Inkscape should be installed for this.
+  - Inkscape should be installed for this.
 
 ## List of logos
 

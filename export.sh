@@ -331,5 +331,8 @@ accounts can be created by adding an accounts.json file
 "
 fi
 
+# Update README.md
+python3 generate_readme.py > README.md
+
 
 # ] <-- needed because of Argbash
