@@ -86,20 +86,20 @@ with open('studies/organizations.json', 'r') as f:
   oragnizations = json.load(f)
 
 for o in oragnizations:
-    s = f"| <img src=\"./studies/logos/{o['studies'][0]}.svg\" width=\"16\" height=\"16\"> "
+    s = f"| <img src=\"./studies/logos/{o['studies'][0]}.svg\" width=\"16\" height=\"16\" style=\"background-color: white;\"> "
 
     if len(o["studies"]) >= 2:
-        s += f"| <img src=\"./studies/logos/{o['studies'][1]}.svg\" width=\"16\" height=\"16\"> "
+        s += f"| <img src=\"./studies/logos/{o['studies'][1]}.svg\" width=\"16\" height=\"16\" style=\"background-color: white;\"> "
     else:
         s += f"|   "
 
     if len(o["studies"]) >= 3:
-        s += f"| <img src=\"./studies/logos/{o['studies'][2]}.svg\" width=\"16\" height=\"16\"> "
+        s += f"| <img src=\"./studies/logos/{o['studies'][2]}.svg\" width=\"16\" height=\"16\" style=\"background-color: white;\"> "
     else:
         s += f"|   "
 
     if len(o["studies"]) >= 4:
-        s += f"| <img src=\"./studies/logos/{o['studies'][3]}.svg\" width=\"16\" height=\"16\"> "
+        s += f"| <img src=\"./studies/logos/{o['studies'][3]}.svg\" width=\"16\" height=\"16\" style=\"background-color: white;\"> "
     else:
         s += f"|   "
 

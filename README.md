@@ -182,21 +182,21 @@ For DOMJudge use the `background_64.zip`.
 
 | Icon 1 | Icon 2 | Icon 3 | Icon 4 | ID | Name | Status |
 |---|---|---|---|---|---|---|
-| <img src="./studies/logos/CSE.svg" width="16" height="16"> |   |   |   | S-1 |  Computer Science & Engineering | :heavy_check_mark: |
-| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/NB.svg" width="16" height="16"> |   |   | S-2 |  Computer Science & Eng. + Nanobiology | :heavy_check_mark: |
-| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AM.svg" width="16" height="16"> |   |   | S-3 |  Computer Science & Eng. + A. Mathematics | :heavy_check_mark: |
-| <img src="./studies/logos/AM.svg" width="16" height="16"> |   |   |   | S-4 |  Applied Mathematics | :heavy_check_mark: |
-| <img src="./studies/logos/AM.svg" width="16" height="16"> | <img src="./studies/logos/ME.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> |   | S-5 |  A. Mathematics + Mechanical Eng. + Aerospace Eng. | :heavy_check_mark: |
-| <img src="./studies/logos/EE.svg" width="16" height="16"> |   |   |   | S-6 |  Electrical Engineering | :heavy_check_mark: |
-| <img src="./studies/logos/NB.svg" width="16" height="16"> |   |   |   | S-7 |  Nanobiology | :heavy_check_mark: |
-| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> |   |   | S-8 |  Computer Science & Eng. + Aerospace Eng. | :heavy_check_mark: |
-| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AM.svg" width="16" height="16"> | <img src="./studies/logos/AP.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> | S-9 |  CSE + A. Mathematics + A. Physics + Aerospace Eng. | :heavy_check_mark: |
-| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/AM.svg" width="16" height="16"> | <img src="./studies/logos/AP.svg" width="16" height="16"> |   | S-10 |  CSE + A. Mathematics + A. Physics | :heavy_check_mark: |
-| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/ME.svg" width="16" height="16"> | <img src="./studies/logos/CE.svg" width="16" height="16"> |   | S-11 |  CSE + Mechanical Eng. + Civil Eng. | :heavy_check_mark: |
-| <img src="./studies/logos/EOR.svg" width="16" height="16"> |   |   |   | S-12 |  Econometrics and Operations Research | :heavy_check_mark: |
-| <img src="./studies/logos/CSE.svg" width="16" height="16"> | <img src="./studies/logos/ME.svg" width="16" height="16"> |   |   | S-13 |  Computer Science & Eng. + Mechanical Eng. | :heavy_check_mark: |
-| <img src="./studies/logos/EE.svg" width="16" height="16"> | <img src="./studies/logos/AE.svg" width="16" height="16"> |   |   | S-14 |  Electrical Eng. + Aerospace Eng. | :heavy_check_mark: |
-| <img src="./studies/logos/AM.svg" width="16" height="16"> | <img src="./studies/logos/EE.svg" width="16" height="16"> |   |   | S-15 |  Applied Mathematics + Electrical Eng. | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16" style="background-color: white;"> |   |   |   | S-1 |  Computer Science & Engineering | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16" style="background-color: white;"> | <img src="./studies/logos/NB.svg" width="16" height="16" style="background-color: white;"> |   |   | S-2 |  Computer Science & Eng. + Nanobiology | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16" style="background-color: white;"> | <img src="./studies/logos/AM.svg" width="16" height="16" style="background-color: white;"> |   |   | S-3 |  Computer Science & Eng. + A. Mathematics | :heavy_check_mark: |
+| <img src="./studies/logos/AM.svg" width="16" height="16" style="background-color: white;"> |   |   |   | S-4 |  Applied Mathematics | :heavy_check_mark: |
+| <img src="./studies/logos/AM.svg" width="16" height="16" style="background-color: white;"> | <img src="./studies/logos/ME.svg" width="16" height="16" style="background-color: white;"> | <img src="./studies/logos/AE.svg" width="16" height="16" style="background-color: white;"> |   | S-5 |  A. Mathematics + Mechanical Eng. + Aerospace Eng. | :heavy_check_mark: |
+| <img src="./studies/logos/EE.svg" width="16" height="16" style="background-color: white;"> |   |   |   | S-6 |  Electrical Engineering | :heavy_check_mark: |
+| <img src="./studies/logos/NB.svg" width="16" height="16" style="background-color: white;"> |   |   |   | S-7 |  Nanobiology | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16" style="background-color: white;"> | <img src="./studies/logos/AE.svg" width="16" height="16" style="background-color: white;"> |   |   | S-8 |  Computer Science & Eng. + Aerospace Eng. | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16" style="background-color: white;"> | <img src="./studies/logos/AM.svg" width="16" height="16" style="background-color: white;"> | <img src="./studies/logos/AP.svg" width="16" height="16" style="background-color: white;"> | <img src="./studies/logos/AE.svg" width="16" height="16" style="background-color: white;"> | S-9 |  CSE + A. Mathematics + A. Physics + Aerospace Eng. | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16" style="background-color: white;"> | <img src="./studies/logos/AM.svg" width="16" height="16" style="background-color: white;"> | <img src="./studies/logos/AP.svg" width="16" height="16" style="background-color: white;"> |   | S-10 |  CSE + A. Mathematics + A. Physics | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16" style="background-color: white;"> | <img src="./studies/logos/ME.svg" width="16" height="16" style="background-color: white;"> | <img src="./studies/logos/CE.svg" width="16" height="16" style="background-color: white;"> |   | S-11 |  CSE + Mechanical Eng. + Civil Eng. | :heavy_check_mark: |
+| <img src="./studies/logos/EOR.svg" width="16" height="16" style="background-color: white;"> |   |   |   | S-12 |  Econometrics and Operations Research | :heavy_check_mark: |
+| <img src="./studies/logos/CSE.svg" width="16" height="16" style="background-color: white;"> | <img src="./studies/logos/ME.svg" width="16" height="16" style="background-color: white;"> |   |   | S-13 |  Computer Science & Eng. + Mechanical Eng. | :heavy_check_mark: |
+| <img src="./studies/logos/EE.svg" width="16" height="16" style="background-color: white;"> | <img src="./studies/logos/AE.svg" width="16" height="16" style="background-color: white;"> |   |   | S-14 |  Electrical Eng. + Aerospace Eng. | :heavy_check_mark: |
+| <img src="./studies/logos/AM.svg" width="16" height="16" style="background-color: white;"> | <img src="./studies/logos/EE.svg" width="16" height="16" style="background-color: white;"> |   |   | S-15 |  Applied Mathematics + Electrical Eng. | :heavy_check_mark: |
 
 ### Others
 

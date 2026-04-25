@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: Install inkscape
-        run: sudo add-apt-repository ppa:inkscape.dev/stable && sudo apt update && sudo apt-get install inkscape
+        run: sudo add-apt-repository ppa:inkscape.dev/stable && sudo apt-get update && sudo apt-get install inkscape
       - run: inkscape --version
       - run: pip install svgutils
       - name: Checkout
@@ -40,7 +40,7 @@ jobs:
         run: |
           cd ${{ github.workspace }}
           ./.github/workflows/generate-metadata.sh
-          sudo apt update; sudo apt install cutycapt xvfb httpie -y
+          sudo apt-get update; sudo apt-get install cutycapt xvfb httpie -y
           docker compose -f .github/workflows/domjudge/docker-compose.yml up -d mariadb
           sleep 30s
           docker compose -f .github/workflows/domjudge/docker-compose.yml up -d domjudge
